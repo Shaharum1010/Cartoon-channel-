@@ -26,3 +26,7 @@ http://xtv.ooo:8080/starmpk/mpk1234/362998
 https://thenayeemparvez.xyz/thdtv/playlist.m3u8?id=67dbf4735dd49ad8f
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/V6MQzp63/Z.jpg",Shaharum tv
 http://tv.cloudcdn.me:80/live.ts?channelId=257&uid=6154&deviceMac=00:1A:79:51:31:21
+#EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/9QSnzbvV/9k.jpg",Wow Kidz
+http://tv.cloudcdn.me:80/live.ts?channelId=91169&uid=6154&deviceMac=00:1A:79:51:31:21
+#EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/W4LwQHBD/l4j3-XRD7-RBmv0ce-QRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRDE7-Bv-NROIw-MUT6i-YAAAAASUVORK5-CYII.jpg",Nick Hd+
+http://xtv.ooo:8080/live/886655777/788656778/26187.m3u8
