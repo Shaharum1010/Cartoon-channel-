@@ -24,3 +24,5 @@ http://livetvbox.live:8080/live/alex/alex123/433.m3u8
 http://xtv.ooo:8080/starmpk/mpk1234/362998
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/D07sx8zC/images-1719425067667.jpg",Disney Hd
 https://thenayeemparvez.xyz/thdtv/playlist.m3u8?id=67dbf4735dd49ad8f
+#EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/V6MQzp63/Z.jpg",Shaharum tv
+http://tv.cloudcdn.me:80/live.ts?channelId=257&uid=6154&deviceMac=00:1A:79:51:31:21
