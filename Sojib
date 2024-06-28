@@ -1,0 +1,18 @@
+#EXTINF:-1group-title=""tvg-logo="https://i.postimg.cc/26mr6cFt/FB-IMG-17195703525425226.jpg",Shaharum Islamic 
+http://tv.cloudcdn.me:80/live.ts?channelId=123908&uid=10153&deviceMac=00:1A:79:91:38:01
+#EXTINF:-1group-title=""tvg-logo="https://i.postimg.cc/26mr6cFt/FB-IMG-17195703525425226.jpg",Shaharum 2
+http://tv.cloudcdn.me:80/live.ts?channelId=33162&uid=10153&deviceMac=00:1A:79:91:38:01
+#EXTINF:-1group-title=""tvg-logo="https://i.postimg.cc/26mr6cFt/FB-IMG-17195703525425226.jpg",Shaharum Hd
+http://tv.cloudcdn.me:80/live.ts?channelId=57486&uid=10153&deviceMac=00:1A:79:91:38:01
+#EXTINF:-1group-title=""tvg-logo="https://i.postimg.cc/26mr6cFt/FB-IMG-17195703525425226.jpg",Shaharum Bangla 
+http://tv.cloudcdn.me:80/live.ts?channelId=29219&uid=10153&deviceMac=00:1A:79:91:38:01
+#EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/4xg1dpH0/Z.jpg",Peace tv Bangla 
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=WtEeCL3jrkSAR2y6Uo7YZg
+#EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/tC03SFkg/9k.jpg",Makkah Live
+http://livetvbox.live:8080/live/alex/alex123/1081.m3u8
+#EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/NM3Hnw1n/P1-OFPg7ryig-SRTQJApo-Eg-U0i-QKa-RAFNoo-Am-Ubgm-XZy-Qdl40-TT4-KSZm-Lpkle-Sowsn-Cap-AJp-EEWg-Pa-JVSwprt25a0w-D9-S43-Pftg-AAA.jpg",islam tv
+http://livetvbox.live:8080/live/alex/alex123/142953.m3u8
+#EXTINF:-1 group-title="SPORTS"tvg-logo="https://i.postimg.cc/QMVKxMmP/Z-1.jpg",Live
+http://xtv.ooo:8080/live/886655777/788656778/26.ts
+#EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/QMVKxMmP/Z-1.jpg",Azan
+http://livetvbox.live:8080/live/alex/alex123/319472.m3u8
