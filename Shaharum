@@ -38,5 +38,5 @@ http://xtv.ooo:8080/live/886655777/788656778/307079.m3u8
 https://fprk.short.gy/shaharum.mp4
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://jiotvimages.cdn.jio.com/dare_imaes/Ten2_HD.png",
 https://dai.google.com/ssai/event/FWf8sA8dTwCRjczTV9uy-A/master.m3u8
-#EXTINF:-
-Refererhttps://dai.google.com/ssai/event/FWf8sA8dTwCRjczTV9uy-A/maser.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png",
+Refererhttps://dai.google.com/ssai/event/FWf8sA8dTwCRjczTV9uy-A/master.m3u8
