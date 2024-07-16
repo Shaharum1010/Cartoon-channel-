@@ -1,7 +1,7 @@
 #EXTINF:-1 group-title="Crtoon"tvg-logo="https://i.postimg.cc/c4VtwxyD/FB-IMG-17211232680483471.jpg",SHAHARUM Movie 
-http://starshare.live:8080/live/SIvKjNbHr6/RGb04VVO4I/147750.ts
+http://starshare.live:8080/live/SIvKjNbHr6/RGb04VVO4I/147750.m3u8
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/c4VtwxyD/FB-IMG-17211232680483471.jpg",Shaharum Plus 
-http://starshare.live:8080/live/SIvKjNbHr6/RGb04VVO4I/121339.ts
+http://starshare.live:8080/live/SIvKjNbHr6/RGb04VVO4I/121339.m3u8
 #EXTINF:-1 group-title="Crtoon"tvg-logo="https://i.postimg.cc/c4VtwxyD/FB-IMG-17211232680483471.jpg",Hangama
 http://opplex.tv:8080/live/nazrul763/77547647/150480.m3u8
 #EXTINF:-1 group-title=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzDndtEJYlUWbJiFilaNkYRXWXfKTb9FpzZ5HNsh3LNA&s",Disney hindi
@@ -32,4 +32,3 @@ http://starshare.live:8080/live/SIvKjNbHr6/eLeVt2eg99/18457.ts
 http://starshare.live:8080/live/SIvKjNbHr6/eLeVt2eg99/38.m3u8
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/VLC54rV1/dda4769ec53718e05ca7c32f4bebdefe.png",Sony Yny
 http://xtv.ooo:8080/live/hamza/hamza/26187.ts
-
