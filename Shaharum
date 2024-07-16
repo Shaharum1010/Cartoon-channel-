@@ -1,38 +1,35 @@
-#EXTINF:-1 group-title="Crtoon"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtuRyWVUasU46gXs5eRHV27euaIugOsL6NnTRUvJ9NAw&s",Nick hindi
-http://xtv.ooo:8080/live/886655777/788656778/150482.m3u8
-#EXTINF:-1 group-title=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOVvXmShVy5NbPtZozKRlTJbKzOkI9uXAcbB00wD_cng&s",CN Network 
-http://xtv.ooo:8080/live/886655777/788656778/150478.m3u8
-#EXTINF:-1 group-title="Crtoon"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCp5xo6OItoy--_F3lnVGmuTCDu2iv-4myNg&s",Hangama
-http://filex.tv:8080/live/Restreaming%40Filex%40MalikBilal007%40854369/HelloSky%40MalikBilal%40LiveTv%407544898/123826.m3u8
+#EXTINF:-1 group-title="Crtoon"tvg-logo="https://i.postimg.cc/c4VtwxyD/FB-IMG-17211232680483471.jpg",SHAHARUM Movie 
+http://starshare.live:8080/live/SIvKjNbHr6/RGb04VVO4I/147750.ts
+#EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/c4VtwxyD/FB-IMG-17211232680483471.jpg",Shaharum Plus 
+http://starshare.live:8080/live/SIvKjNbHr6/RGb04VVO4I/121339.ts
+#EXTINF:-1 group-title="Crtoon"tvg-logo="https://i.postimg.cc/c4VtwxyD/FB-IMG-17211232680483471.jpg",Hangama
+http://opplex.tv:8080/live/nazrul763/77547647/150480.m3u8
 #EXTINF:-1 group-title=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzDndtEJYlUWbJiFilaNkYRXWXfKTb9FpzZ5HNsh3LNA&s",Disney hindi
-http://filex.tv:8080/live/Restreaming%40Filex%40MalikBilal007%40854369/HelloSky%40MalikBilal%40LiveTv%407544898/246763.m3u8
+http://starshare.live:8080/live/irfan/irfan/19741.ts
 #EXTINF:-1 group-title=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ1gue0uPTSNTU7Rotf82P4lWu5cMKe5mYcrNOycYgpTyXEowyF8EkM3k&s",Gubbar
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 #EXTINF:-1 group-title=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYPKaOM7XnigtPN6D4A2Nv0AplttgSXtMRvnFo0Np8nKMO02gA_VSCwRY&s",Nick bangla
 https://jio.dinesh29.com.np/live/jio-universal/nick-bangla/index.ts
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/nckyQDS9/images.jpg",Sonic Bangla 
 https://jio.dinesh29.com.np/live/jio-universal/sonic-bangla/index.ts
-#EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/7LW5q1sk/2Q.jpg",Wowkidz Action 
-http://xtv.ooo:8080/starmpk/mpk1234/314753
-#EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/wvnRQ5LV/0AQA.jpg",Pogo Cartoon 
-http://filex.tv:8080/live/Restreaming%40Filex%40MalikBilal007%40854369/HelloSky%40MalikBilal%40LiveTv%407544898/320.ts
+#EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/7LW5q1sk/2Q.jpg",Wow kids  
+http://tv.cloudcdn.me:80/live.ts?channelId=91169&uid=10153&deviceMac=00:1A:79:91:38:01
+#EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/wvnRQ5LV/0AQA.jpg",Pogo Channel 
+http://xtv.ooo:8080/live/hamza/hamza/150483.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/X7fB9CJf/Z.jpg",Supar Hangama
-http://xtv.ooo:8080/live/886655777/788656778/150480.ts
+http://starshare.live:8080/live/SIvKjNbHr6/sp72ZlUsBJ/121339.m3u8
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/K8Yc4kgv/S8-Vite-Fb-CFu1g-AAAABJRU5-Erk-Jggg.jpg",Durnato Tv
-http://livetvbox.live:8080/live/alex/alex123/433.m3u8
+http://xtv.ooo:8080/live/hamza/hamza/342074.m3u8
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/K8Yc4kgv/S8-Vite-Fb-CFu1g-AAAABJRU5-Erk-Jggg.jpg",Shaharum TvTv
-http://xtv.ooo:8080/starmpk/mpk1234/362998
-#EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/D07sx8zC/images-1719425067667.jpg",Disney Hd
-https://thenayeemparvez.xyz/thdtv/playlist.m3u8?id=67dbf4735dd49ad8f
-#EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/V6MQzp63/Z.jpg",Shaharum tv
-http://tv.cloudcdn.me:80/live.ts?channelId=257&uid=6154&deviceMac=00:1A:79:51:31:21
-#EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/9QSnzbvV/9k.jpg",Wow Kidz
-http://tv.cloudcdn.me:80/live.ts?channelId=91169&uid=6154&deviceMac=00:1A:79:51:31:21
-#EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/W4LwQHBD/l4j3-XRD7-RBmv0ce-QRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRDE7-Bv-NROIw-MUT6i-YAAAAASUVORK5-CYII.jpg",Nick Hd+
-http://xtv.ooo:8080/live/886655777/788656778/26187.m3u8
+http://xtv.ooo:8080/live/hamza/hamza/362998.ts
+#EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/D07sx8zC/images-1719425067667.jpg",Disny hd 
+http://starshare.live:8080/live/irfan/irfan/19741.m3u8
+#EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/9QSnzbvV/9k.jpg",Wow Kidz Acton 
+http://xtv.ooo:8080/live/hamza/hamza/314753.m3u8
+#EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/W4LwQHBD/l4j3-XRD7-RBmv0ce-QRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRDE7-Bv-NROIw-MUT6i-YAAAAASUVORK5-CYII.jpg",Nick Hindi 
+http://starshare.live:8080/live/SIvKjNbHr6/eLeVt2eg99/18457.ts
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/W4LwQHBD/l4j3-XRD7-RBmv0ce-QRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRDE7-Bv-NROIw-MUT6i-YAAAAASUVORK5-CYII.jpg",Nick Jr
-http://tv.cloudcdn.me:80/live.ts?channelId=252&uid=6154&deviceMac=00:1A:79:51:31:21
-#EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/c4dgFsYj/FB-IMG-17194934001333013.jpg",Shaharum Movie 
-http://xtv.ooo:8080/live/886655777/788656778/363000.m3u8
+http://starshare.live:8080/live/SIvKjNbHr6/eLeVt2eg99/38.m3u8
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/VLC54rV1/dda4769ec53718e05ca7c32f4bebdefe.png",Sony Yny
-https://mhdtvweb.com/sonyliv/chunklist.m3u8?load=b9d34e92f7f06d618791206c8f4a6232c2bd9ef71ce5a574a4955f0c2e6fb0abb9f87d39afcbbffe8af0b3562b03a35df4e16024152609b89ccaa6dd2370af769aef8ea2b190fec14306124d2f7afa1215c423c24db7d54e562ff4dc1731a5f890b6897bf996f700d1271cb70b48d45222895d5bbd0a7850b2bf8d83300327d82664280237bdb7d8b453d4e42134d7c175aa5bb8610af4b832a2bd935378837440a4c222b1078b40a82da23f7e049f0ecc59ab47316265879d6cb9b1a32c070f3f4d15b5ef09be52b8a158c96628512f9d0ca1ba369b2c93fe002e979aa6b7ac7cdb51377ddc5dc2d53817d1e913975995c2c87b44e64a4b7b774224c433a9da1474d5e6311b466dfaee0fd12470e7a5ddf59551e78970f64a58e781bd88a1a09d2d8fd8c1acb537c082c70715376d8957c11342131b3834238bd0767758db97ff55879ee95cb312e6b51ef784c80cdbc45fe06930b423c997be310fc41e1966&token=
+http://xtv.ooo:8080/live/hamza/hamza/26187.ts
+
