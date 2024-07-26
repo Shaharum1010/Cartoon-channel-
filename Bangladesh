@@ -24,3 +24,31 @@ http://opplextv.cyou:8080/live/773199/626227/245920.ts
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My TV.svg.png",My Tv
 http://opplextv.cyou:8080/live/773199/626227/245964.ts
+#EXTINF:-1 group-title="" tvg-logo="https://test-tan-iota-90.vercel.app/images/star-jalaha-hd.jpg",Star Jalsa
+http://opplextv.cyou:8080/live/773199/626227/245898.ts
+#EXTINF:-1 group-title="" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11514-j9jtp5tk-v1/imageContent-11514-j9jtp5tk-m2.png",Jalsha movie 
+http://opplextv.cyou:8080/live/773199/626227/245900.ts
+#EXTINF:-1 group-title="" tvg-logo="https://i.imgur.com/F0dmFko.jpg",Z Bangla 
+http://opplextv.cyou:8080/live/773199/626227/245893.ts
+#EXTINF:-1 group-title="" tvg-logo="https://i.imgur.com/F0dmFko.jpg",Z Bangla Cinema
+http://opplextv.cyou:8080/live/773199/626227/245897.ts
+#EXTINF:-1 group-title="" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-75-j5fikj0o-v1/imageContent-75-j5fikj0o-m1.png",Colors Bangla
+http://opplextv.cyou:8080/live/773199/626227/245895.ts
+#EXTINF:-1 group-title="" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-75-j5fikj0o-v1/imageContent-75-j5fikj0o-m1.png",Colors Bangla Cinema 
+http://watchindia.net:8880/live/61644/45127/2290.m3u8
+#EXTINF:-1 group-title="" tvg-lojpeg"https://upload.wikimedia.org/wikipedia/en/e/ea/Enterr10_Bangla.jpeg",Enterr10 Bangla 
+http://livetvbox.live:8080/live/554147/554147/3801.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9tnkQAQ6UNjg0W8LO1Z-e2W9PmAT_uvPbSg",Discovery Bengali
+https://cdn1-freeiptv25.vercel.app/m3u/discoverybengali.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlB4QSuTkQAeY_ZKeeqJrN7SgwyzdYPdztaiA9dgFNpXD-5h0nut02cvQ&s=10",Rupasi Bangla
+http://opplextv.cyou:8080/live/773199/626227/245932.ts
+#EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1200px-Ekushey_Television_Logo.svg.png",Ekushey TV
+http://opplextv.cyou:8080/live/773199/626227/245937.ts
+#EXTINF:-1 group-title="" tvg-logo="https://i.postimg.cc/Gm2yxBLt/f01ea25984dc128d7fe5c6efae2d24d4.png",Sony Aath
+http://watchindia.net:8880/live/61644/45127/2286.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto TV.jpeg",Deepto Tv
+http://opplextv.cyou:8080/live/773199/626227/245927.ts
+#EXTINF:-1 group-title="" tvg-logo="https://test-tan-iota-90.vercel.app/images/channel_i.jpg",Channel i
+http://opplextv.cyou:8080/live/773199/626227/245913.ts
+#EXTINF:-1 group-title="" tvg-logo="https://test-tan-iota-90.vercel.app/images/maasranga.jog",Maasranga HD
+http://opplextv.cyou:8080/live/773199/626227/245904.ts
