@@ -36,7 +36,7 @@ http://opplextv.cyou:8080/live/773199/626227/245897.ts
 http://opplextv.cyou:8080/live/773199/626227/245895.ts
 #EXTINF:-1 group-title="" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-75-j5fikj0o-v1/imageContent-75-j5fikj0o-m1.png",Colors Bangla Cinema 
 http://watchindia.net:8880/live/61644/45127/2290.m3u8
-#EXTINF:-1 group-title="" tvg-lojpeg"https://upload.wikimedia.org/wikipedia/en/e/ea/Enterr10_Bangla.jpg",Enterr10 Bangla 
+#EXTINF:-1 group-title=""https://i.postimg.cc/g0j1pKYp/c470d53a07f84afeeb5aa4c7e6d87f8c.png",Enterr10 Bangla 
 http://livetvbox.live:8080/live/554147/554147/3801.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9tnkQAQ6UNjg0W8LO1Z-e2W9PmAT_uvPbSg",Discovery Bengali
 https://cdn1-freeiptv25.vercel.app/m3u/discoverybengali.m3u8
@@ -52,3 +52,11 @@ http://opplextv.cyou:8080/live/773199/626227/245927.ts
 http://opplextv.cyou:8080/live/773199/626227/245913.ts
 #EXTINF:-1 group-title="" tvg-logo="https://test-tan-iota-90.vercel.app/images/maasranga.jpg",Maasranga HD
 http://opplextv.cyou:8080/live/773199/626227/245904.ts
+#EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png",Ekon
+https://ythls.armelin.one/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiZ0lM0o3dEBa1rTS-vb1WIZm5Ynjnk5yDkg",Sangeet Bangla 
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png",Duronto
+http://livetvbox.live:8080/live/554147/554147/433.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://i.postimg.cc/SRC7DrhX/c5ec930d970d174340319bc07c97ab7e.png",Green Tv
+http://livetvbox.live:8080/live/554147/554147/257227.m3u8
