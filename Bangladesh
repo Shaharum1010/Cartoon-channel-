@@ -1,11 +1,11 @@
 #EXTINF:-1 group-title="" tvg-logo="https://i.postimg.cc/28mYvSLM/IMG-20240726-100607-735.jpg",https://t.me/SmartFlix_Tv
 https://t.me/SmartFlix_Tv
 #EXTINF:-1 group-title="" tvg-logo="https://i.postimg.cc/28mYvSLM/IMG-20240726-100607-735.jpg",https://t.me/SmartFlix_Tv
-http://opplextv.cyou:8080/live/773199/626227/245966.ts
+http://tv.cloudcdn.me:80/live.ts?channelId=90230&uid=1904&deviceMac=00:1A:79:4C:9A:52
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png",Independent 
-http://livetvbox.live:8080/live/554147/554147/423.m3u8 
+http://starshare.live:8080/live/irfan/irfan/423.ts 
 #EXTINF:-1 group-title="" tvg-logo="https://i.postimg.cc/v8X1ckcr/30737e0d3caad8a27d5daa148cda6dd4.png",G Tv
-https://evbr.short.gy/BDStreamHub.Gazitv.m3u
+http://tv.cloudcdn.me:80/live.ts?channelId=98&uid=1904&deviceMac=00:1A:79:4C:9A:52
 #EXTINF:-1 group-title="" tvg-logo="https://i.postimg.cc/K834pYQf/b00fbf4b413f6887c2bdf4b167d9d341.png",Anando tv
 http://opplextv.cyou:8080/live/773199/626227/245929.ts
 #EXTINF:-1 group-title="" tvg-logo="https://i.postimg.cc/9fW5R849/15c94d0969ae92f4fb01c4bca48590b5.png",SATV
@@ -25,9 +25,9 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My TV.svg.png",My Tv
 http://opplextv.cyou:8080/live/773199/626227/245964.ts
 #EXTINF:-1 group-title="" tvg-logo="https://test-tan-iota-90.vercel.app/images/star-jalaha-hd.jpg",Star Jalsa
-http://opplextv.cyou:8080/live/773199/626227/245898.ts
+http://tv.cloudcdn.me:80/live.ts?channelId=116&uid=1904&deviceMac=00:1A:79:4C:9A:52
 #EXTINF:-1 group-title="" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11514-j9jtp5tk-v1/imageContent-11514-j9jtp5tk-m2.png",Jalsha movie 
-http://opplextv.cyou:8080/live/773199/626227/245900.ts
+http://tv.cloudcdn.me:80/live.ts?channelId=117&uid=1904&deviceMac=00:1A:79:4C:9A:52
 #EXTINF:-1 group-title="" tvg-logo="https://i.imgur.com/F0dmFko.jpg",Z Bangla 
 http://opplextv.cyou:8080/live/773199/626227/245893.ts
 #EXTINF:-1 group-title="" tvg-logo="https://i.imgur.com/F0dmFko.jpg",Z Bangla Cinema
@@ -41,8 +41,8 @@ http://livetvbox.live:8080/live/554147/554147/3801.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9tnkQAQ6UNjg0W8LO1Z-e2W9PmAT_uvPbSg",Discovery Bengali
 https://cdn1-freeiptv25.vercel.app/m3u/discoverybengali.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlB4QSuTkQAeY_ZKeeqJrN7SgwyzdYPdztaiA9dgFNpXD-5h0nut02cvQ&s=10",Rupasi Bangla
-http://opplextv.cyou:8080/live/773199/626227/245932.ts
-#EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1200px-Ekushey_Television_Logo.svg.png",Ekushey TV
+http://tv.cloudcdn.me:80/live.ts?channelId=113&uid=1904&deviceMac=00:1A:79:4C:9A:52
+#EXTINF:-1 group-title="" tvg-logo="https://upload.ikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1200px-Ekushey_Television_Logo.svg.png",Ekushey TV
 http://opplextv.cyou:8080/live/773199/626227/245937.ts
 #EXTINF:-1 group-title="" tvg-logo="https://i.postimg.cc/Gm2yxBLt/f01ea25984dc128d7fe5c6efae2d24d4.png",Sony Aath
 http://watchindia.net:8880/live/61644/45127/2286.m3u8
@@ -60,3 +60,9 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
 http://livetvbox.live:8080/live/554147/554147/433.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.postimg.cc/SRC7DrhX/c5ec930d970d174340319bc07c97ab7e.png",Green Tv
 http://livetvbox.live:8080/live/554147/554147/257227.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_aZ_rjUjB05si3zA0ZSvJyev5I3UcMNKKJ5r2b3m3-ovDjrJ-Z49XYks",Jamuna Tv
+http://tv.cloudcdn.me:80/live.ts?channelId=100&uid=1904&deviceMac=00:1A:79:4C:9A:52
+#EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png",Nexus TV
+http://opplextv.cyou:8080/live/773199/626227/245908.ts
+#EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_(Bangladesh)_logo.svg/1200px-NTV_(Bangladesh)_logo.svg.png",NTV 
+http://opplextv.cyou:8080/live/773199/626227/245924.ts
