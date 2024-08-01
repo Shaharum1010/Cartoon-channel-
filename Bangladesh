@@ -5,7 +5,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=90230&uid=1904&deviceMac=00:1A:79:4C:
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png",Independent 
 http://starshare.live:8080/live/irfan/irfan/423.ts 
 #EXTINF:-1 group-title="" tvg-logo="https://i.postimg.cc/v8X1ckcr/30737e0d3caad8a27d5daa148cda6dd4.png",G Tv
-http://tv.cloudcdn.me:80/live.ts?channelId=98&uid=1904&deviceMac=00:1A:79:4C:9A:52
+http://livetvbox.live:8080/live/34643/34643/767.ts
 #EXTINF:-1 group-title="" tvg-logo="https://i.postimg.cc/K834pYQf/b00fbf4b413f6887c2bdf4b167d9d341.png",Anando tv
 http://opplextv.cyou:8080/live/773199/626227/245929.ts
 #EXTINF:-1 group-title="" tvg-logo="https://i.postimg.cc/9fW5R849/15c94d0969ae92f4fb01c4bca48590b5.png",SATV
@@ -52,8 +52,8 @@ http://opplextv.cyou:8080/live/773199/626227/245927.ts
 http://opplextv.cyou:8080/live/773199/626227/245913.ts
 #EXTINF:-1 group-title="" tvg-logo="https://test-tan-iota-90.vercel.app/images/maasranga.jpg",Maasranga HD
 http://opplextv.cyou:8080/live/773199/626227/245904.ts
-#EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png",Ekon
-https://ythls.armelin.one/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png"asin Bangla 
+http://tv.cloudcdn.me:80/live.ts?channelId=80&uid=7045&deviceMac=00:1A:79:0A:3B:36
 #EXTINF:-1 group-title="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiZ0lM0o3dEBa1rTS-vb1WIZm5Ynjnk5yDkg",Sangeet Bangla 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png",Duronto
