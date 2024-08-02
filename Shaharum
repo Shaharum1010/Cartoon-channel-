@@ -1,7 +1,7 @@
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/c4VtwxyD/FB-IMG-17211232680483471.jpg",hd
 http://starshare.live:8080/live/irfan/irfan/147738.ts
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/8CbZjGmj/FB-IMG-17211943563666936.jpg",Shaharu plus 
-http://starshare.live:8080/live/irfan/irfan/147750.ts
+http://livetvbox.live:8080/live/34643/34643/147750.m3u8
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/8CbZjGmj/FB-IMG-17211943563666936.jpg",Shaharum movie 
 http://xtv.ooo:8080/live/hamza/hamza/362998.m3u8
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/8CbZjGmj/FB-IMG-17211943563666936.jpg",Shaharum golod
@@ -11,7 +11,7 @@ https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/ZY70KDHB/ef009aad5299ab9a55ac0491932ed9e3.png",Cartoon Network 
 http://xtv.ooo:8080/live/Ali2922/wawawawa/150478.m3u8
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/rmyFqStN/5b17a33c349cb9bf7dd7976f38a9b754.png",Disney Hd
-http://xtv.ooo:8080/live/Ali2922/wawawawa/167551.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=251&uid=7045&deviceMac=00:1A:79:0A:3B:36
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/rmyFqStN/5b17a33c349cb9bf7dd7976f38a9b754.png",Disney
 http://filex.tv:8080/live/shakeelmirza/4110440/246763.ts
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/MGZ5hPFy/7aa3ede3a9a05d6d9009b34ed0f914d0.png",Nick Hindi
@@ -28,5 +28,11 @@ http://xtv.ooo:8080/live/Ali2922/wawawawa/26187.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=256&uid=1904&deviceMac=00:1A:79:4C:9A:52
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/x15hJzr3/699391a2c013c54b4266bde15e2cb99c.png",Hangama 
 http://xtv.ooo:8080/live/Ali2922/wawawawa/301506.m3u8
-#EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/NfYd6jkJ/8aff3a1f9fb17dc659828c0123c147f5.png",Wow Kidz
+#EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/NfYd6jkJ/8aff3a1f9fb17dc659828c0123c147f5.png",Wow Kidz Acton 
 http://xtv.ooo:8080/live/Ali2922/wawawawa/314753.m3u8
+#EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/3JB9JB7v/8c8e171d3c2ec1f3dc1322d3aabb97ee.png",Discovery Kids Hindi
+https://nowmetv.net/delta/discovery/api/Discovery_Kids_Hindi.m3u8
+#EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/NfYd6jkJ/8aff3a1f9fb17dc659828c0123c147f5.png",Wow kidz
+http://tv.cloudcdn.me:80/live.ts?channelId=91169&uid=7045&deviceMac=00:1A:79:0A:3B:36
+#EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/59m8w2Gc/04e7f0f5247e839b8e1b711aa2ab614a.png",boomerang
+http://tv.cloudcdn.me:80/live.ts?channelId=243&uid=7045&deviceMac=00:1A:79:0A:3B:36
