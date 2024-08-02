@@ -5,7 +5,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=90230&uid=1904&deviceMac=00:1A:79:4C:
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png",Independent 
 http://starshare.live:8080/live/irfan/irfan/423.ts 
 #EXTINF:-1 group-title="" tvg-logo="https://i.postimg.cc/v8X1ckcr/30737e0d3caad8a27d5daa148cda6dd4.png",G Tv
-http://livetvbox.live:8080/live/34643/34643/767.ts
+https://evbr.short.gy/BDStreamHub.Gazitv.m3u
 #EXTINF:-1 group-title="" tvg-logo="https://i.postimg.cc/K834pYQf/b00fbf4b413f6887c2bdf4b167d9d341.png",Anando tv
 http://opplextv.cyou:8080/live/773199/626227/245929.ts
 #EXTINF:-1 group-title="" tvg-logo="https://i.postimg.cc/9fW5R849/15c94d0969ae92f4fb01c4bca48590b5.png",SATV
