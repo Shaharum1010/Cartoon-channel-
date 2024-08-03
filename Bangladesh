@@ -45,7 +45,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=113&uid=1904&deviceMac=00:1A:79:4C:9A
 #EXTINF:-1 group-title="" tvg-logo="https://upload.ikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1200px-Ekushey_Television_Logo.svg.png",Ekushey TV
 http://opplextv.cyou:8080/live/773199/626227/245937.ts
 #EXTINF:-1 group-title="" tvg-logo="https://i.postimg.cc/Gm2yxBLt/f01ea25984dc128d7fe5c6efae2d24d4.png",Sony Aath
-http://watchindia.net:8880/live/61644/45127/2286.m3u8
+http://starshare.live:8080/live/irfan/irfan/4083.ts
 #EXTINF:-1 group-title="" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto TV.jpeg",Deepto Tv
 http://opplextv.cyou:8080/live/773199/626227/245927.ts
 #EXTINF:-1 group-title="" tvg-logo="https://test-tan-iota-90.vercel.app/images/channel_i.jpg",Channel i
