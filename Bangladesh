@@ -61,7 +61,7 @@ http://livetvbox.live:8080/live/554147/554147/433.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.postimg.cc/SRC7DrhX/c5ec930d970d174340319bc07c97ab7e.png",Green Tv
 http://livetvbox.live:8080/live/554147/554147/257227.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_aZ_rjUjB05si3zA0ZSvJyev5I3UcMNKKJ5r2b3m3-ovDjrJ-Z49XYks",Jamuna Tv
-http://113.212.111.246:8080/hls/col12.m3u8
+http://starshare.live:8080/live/4nZLrei9JF/nKrbfbysib/421.ts
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png",Nexus TV
 http://opplextv.cyou:8080/live/773199/626227/245908.ts
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_(Bangladesh)_logo.svg/1200px-NTV_(Bangladesh)_logo.svg.png",NTV 
