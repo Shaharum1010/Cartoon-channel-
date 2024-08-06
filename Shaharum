@@ -15,13 +15,13 @@ http://tv.cloudcdn.me:80/live.ts?channelId=251&uid=7045&deviceMac=00:1A:79:0A:3B
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/rmyFqStN/5b17a33c349cb9bf7dd7976f38a9b754.png",Disney
 http://filex.tv:8080/live/mndr111/mndr111/246763.m3u8
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/MGZ5hPFy/7aa3ede3a9a05d6d9009b34ed0f914d0.png",Nick Bangla 
-https://copyright-programmes-comm-tour.trycloudflare.com/app/live.php?id=1341&e=.m3u
+https://tootvnet.xyz/Jio/stream.m3u8?id=1341&e=.m3u8
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/MGZ5hPFy/7aa3ede3a9a05d6d9009b34ed0f914d0.png",Nick hindi 
 http://xtv.ooo:8080/live/27388829/92888372/150482.ts
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/MGZ5hPFy/7aa3ede3a9a05d6d9009b34ed0f914d0.png",Nick janey 
 http://xtv.ooo:8080/live/Ali2922/wawawawa/153156.m3u8
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/K4SM5gVz/c26e3f010eb7043ee9e082be2509838a.png",Sonic 
-https://copyright-programmes-comm-tour.trycloudflare.com/app/live.php?id=1345&e=.m3u
+https://tootvnet.xyz/Jio/stream.m3u8?id=1345&e=.m3u8
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/9Xv8kgH4/e8da1b4d1606e72596a0533b3f9ca3a8.png",Sony Yny
 http://xtv.ooo:8080/live/Ali2922/wawawawa/26187.m3u8
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/v81sJ3RF/7f92f7a33ad65b181b3cb93900b58228.png",Pogo 
