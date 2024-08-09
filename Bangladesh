@@ -3,17 +3,17 @@ https://t.me/SmartFlix_Tv
 #EXTINF:-1 group-title="" tvg-logo="https://i.postimg.cc/28mYvSLM/IMG-20240726-100607-735.jpg",https://t.me/SmartFlix_Tv
 http://tv.cloudcdn.me:80/live.ts?channelId=90230&uid=1904&deviceMac=00:1A:79:4C:9A:52
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png",Independent 
-http://starshare.live:8080/live/irfan/irfan/423.ts 
+http://ktv.im:8080/live/23457/23457/83776.ts
 #EXTINF:-1 group-title="" tvg-logo="https://i.postimg.cc/v8X1ckcr/30737e0d3caad8a27d5daa148cda6dd4.png",G Tv
-https://evbr.short.gy/BDStreamHub.Gazitv.m3u
-#EXTINF:-1 group-title="" tvg-logo="https://i.postimg.cc/K834pYQf/b00fbf4b413f6887c2bdf4b167d9d341.png",Anando tv
+http://ktv.im:8080/live/23457/23457/83780.ts
+#EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/nVG61QRc/54713955f2c2334c7a61bd23b4b29d3e.png",Anando tv
 http://opplextv.cyou:8080/live/773199/626227/245929.ts
 #EXTINF:-1 group-title="" tvg-logo="https://i.postimg.cc/9fW5R849/15c94d0969ae92f4fb01c4bca48590b5.png",SATV
-http://opplextv.cyou:8080/live/773199/626227/245945.ts
+http://tv.cloudcdn.me:80/live.ts?channelId=114&uid=3960&deviceMac=00:1A:79:09:AC:16
 #EXTINF:-1 group-title="" tvg-logo="https://i.postimg.cc/P57dRZ1d/ed69726e95639af8a31114353110ef61.png",Rtv
-http://opplextv.cyou:8080/live/773199/626227/245911.ts
+https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/playlist.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.postimg.cc/j50tsb89/00461a48a03f0ee2215ed653cd300c5f.png",Somy Tv
-http://opplextv.cyou:8080/live/773199/626227/245925.ts
+http://ktv.im:8080/live/23457/23457/83781.ts
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png",DBC News
 http://opplextv.cyou:8080/live/773199/626227/245914.ts
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/640px-Banglavision.svg.png",Bangla vision 
@@ -25,9 +25,9 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My TV.svg.png",My Tv
 http://opplextv.cyou:8080/live/773199/626227/245964.ts
 #EXTINF:-1 group-title="" tvg-logo="https://test-tan-iota-90.vercel.app/images/star-jalaha-hd.jpg",Star Jalsa
-http://tv.cloudcdn.me:80/live.ts?channelId=116&uid=1904&deviceMac=00:1A:79:4C:9A:52
+http://ktv.im:8080/live/23457/23457/83733.ts
 #EXTINF:-1 group-title="" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11514-j9jtp5tk-v1/imageContent-11514-j9jtp5tk-m2.png",Jalsha movie 
-http://tv.cloudcdn.me:80/live.ts?channelId=117&uid=1904&deviceMac=00:1A:79:4C:9A:52
+http://ktv.im:8080/live/23457/23457/83756.ts
 #EXTINF:-1 group-title="" tvg-logo="https://i.imgur.com/F0dmFko.jpg",Z Bangla 
 http://opplextv.cyou:8080/live/773199/626227/245893.ts
 #EXTINF:-1 group-title="" tvg-logo="https://i.imgur.com/F0dmFko.jpg",Z Bangla Cinema
@@ -36,33 +36,33 @@ http://opplextv.cyou:8080/live/773199/626227/245897.ts
 http://opplextv.cyou:8080/live/773199/626227/245895.ts
 #EXTINF:-1 group-title="" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-75-j5fikj0o-v1/imageContent-75-j5fikj0o-m1.png",Colors Bangla Cinema 
 http://watchindia.net:8880/live/61644/45127/2290.m3u8
-#EXTINF:-1 group-title=""https://i.postimg.cc/g0j1pKYp/c470d53a07f84afeeb5aa4c7e6d87f8c.png",Enterr10 Bangla 
-http://livetvbox.live:8080/live/554147/554147/3801.m3u8
+#EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/j5QkvGhk/03978ea5899d660d45ba16643e31bfc2.png",Enterr10 Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9tnkQAQ6UNjg0W8LO1Z-e2W9PmAT_uvPbSg",Discovery Bengali
 https://cdn1-freeiptv25.vercel.app/m3u/discoverybengali.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlB4QSuTkQAeY_ZKeeqJrN7SgwyzdYPdztaiA9dgFNpXD-5h0nut02cvQ&s=10",Rupasi Bangla
 http://tv.cloudcdn.me:80/live.ts?channelId=113&uid=1904&deviceMac=00:1A:79:4C:9A:52
 #EXTINF:-1 group-title="" tvg-logo="https://upload.ikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1200px-Ekushey_Television_Logo.svg.png",Ekushey TV
-http://opplextv.cyou:8080/live/773199/626227/245937.ts
+https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.postimg.cc/Gm2yxBLt/f01ea25984dc128d7fe5c6efae2d24d4.png",Sony Aath
-http://opplex.tv:8080/live/hamza/hamza/245989.ts
+http://ktv.im:8080/live/23457/23457/83772.ts
 #EXTINF:-1 group-title="" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto TV.jpeg",Deepto Tv
 http://opplextv.cyou:8080/live/773199/626227/245927.ts
 #EXTINF:-1 group-title="" tvg-logo="https://test-tan-iota-90.vercel.app/images/channel_i.jpg",Channel i
 http://opplextv.cyou:8080/live/773199/626227/245913.ts
 #EXTINF:-1 group-title="" tvg-logo="https://test-tan-iota-90.vercel.app/images/maasranga.jpg",Maasranga HD
-http://opplextv.cyou:8080/live/773199/626227/245904.ts
+https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png",Ekon
 http://tv.cloudcdn.me:80/live.ts?channelId=80&uid=7045&deviceMac=00:1A:79:0A:3B:36
 #EXTINF:-1 group-title="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiZ0lM0o3dEBa1rTS-vb1WIZm5Ynjnk5yDkg",Sangeet Bangla 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png",Duronto
-http://livetvbox.live:8080/live/554147/554147/433.m3u8
+http://starshare.live:8080/live/7884362065/8020257649/433.ts
 #EXTINF:-1 group-title="" tvg-logo="https://i.postimg.cc/SRC7DrhX/c5ec930d970d174340319bc07c97ab7e.png",Green Tv
 http://livetvbox.live:8080/live/554147/554147/257227.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_aZ_rjUjB05si3zA0ZSvJyev5I3UcMNKKJ5r2b3m3-ovDjrJ-Z49XYks",Jamuna Tv
-http://starshare.live:8080/live/4nZLrei9JF/nKrbfbysib/421.ts
+http://ktv.im:8080/live/23457/23457/83800.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png",Nexus TV
-http://opplextv.cyou:8080/live/773199/626227/245908.ts
+https://ythls.armelin.one/channel/UC200cnk8CCEkNAIubWtDsLw.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_(Bangladesh)_logo.svg/1200px-NTV_(Bangladesh)_logo.svg.png",NTV 
 http://opplextv.cyou:8080/live/773199/626227/245924.ts
