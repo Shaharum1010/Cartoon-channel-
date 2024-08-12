@@ -45,7 +45,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=113&uid=1904&deviceMac=00:1A:79:4C:9A
 #EXTINF:-1 group-title="" tvg-logo="https://upload.ikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1200px-Ekushey_Television_Logo.svg.png",Ekushey TV
 https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.postimg.cc/Gm2yxBLt/f01ea25984dc128d7fe5c6efae2d24d4.png",Sony Aath
-http://ktv.im:8080/live/23457/23457/83772.ts
+http://tv.cloudcdn.me:80/live.ts?channelId=44150&uid=15531&deviceMac=00:1A:79:09:2B:88
 #EXTINF:-1 group-title="" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto TV.jpeg",Deepto Tv
 http://ktv.im:8080/live/23457/23457/83799.ts
 #EXTINF:-1 group-title="" tvg-logo="https://test-tan-iota-90.vercel.app/images/channel_i.jpg",Channel i
