@@ -9,23 +9,23 @@ http://xtv.ooo:8080/live/27388829/92888372/329248.ts
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/6qsjdhLd/bf6d5e5ffa2259622fc5eabcba2e5b22.png",Gubbare
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/g002B7kq/01ef9db86b56a85ed9474bac2af17b55-1.png",Cartoon Network 
-https://jiotv.watchtvs.live/watchtvs/ts_live_816.m3u8
+http://14.102.123.50:5001/live/816.m3u8
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/rmyFqStN/5b17a33c349cb9bf7dd7976f38a9b754.png",Disney Hd
 http://ktv.im:8080/live/23457/23457/329.ts
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/rmyFqStN/5b17a33c349cb9bf7dd7976f38a9b754.png",Disney
-http://filex.tv:8080/live/mndr111/mndr111/246763.m3u8
+http://14.102.123.50:5001/live/2774.m3u8
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/MGZ5hPFy/7aa3ede3a9a05d6d9009b34ed0f914d0.png",Nick Bangla 
-https://jiotv.watchtvs.live/watchtvs/stream.php?ck=5f5f68646e65615f5f3d73743d313732333639343135317e6578703d313732333639373735317e61636c3d2f62706b2d74762f4e69636b5f42656e5f4d4f422f46616c6c6261636b2f2a7e686d61633d64393562386637323730353864633132613566663131613564653863333633643932333839373135653032373933343238666131623537613731613136373864&cid=1341&id=Nick_Ben_MOB-audio_98846_ben=98800-video=301200.m3u8
+http://14.102.123.50:5001/render.m3u8?auth=ufUnMen2yDyh8w8uBcSYdX_c4IIDKLpAcs0UQoFGxBtzL54CC0xPIFaOW3_Hs2RxLCSrMHRXSMLpWxnaKw2JwArV0oOXmYh0sGxRqOrFJmhmcp7cnG65yrM_izBYYPTZjlpPByZoimYst_BBQ5jjWwgoHmLFnsdAbsgF2TPoEqA3FX0jvg7FfA9-c9fAcARkc5bfOEc7JSEpRVvATZpwUWlR4Gsv-GKwlkW5zoYqQrMPuM5JNIs8yLQyTib1UBRV_2H8KwwVh4cXOHb-XxKkAArkHh5VAESNXq3Qmu-2Be8woc83y5UU4BvGKMAiNZDE1Uav_GrxVMgigkkwSkF5fWGRg7ob1A==&channel_key_id=1341
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/MGZ5hPFy/7aa3ede3a9a05d6d9009b34ed0f914d0.png",Nick hindi 
-https://jiotv.watchtvs.live/watchtvs/ts_live_545.m3u8
+http://14.102.123.50:5001/live/545.m3u8
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/MGZ5hPFy/7aa3ede3a9a05d6d9009b34ed0f914d0.png",Nick janey 
 http://212.102.60.231/NICK_JR/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/K4SM5gVz/c26e3f010eb7043ee9e082be2509838a.png",Sonic 
-http://tv.cloudcdn.me:80/live.ts?channelId=40476&uid=15531&deviceMac=00:1A:79:09:2B:88
+http://14.102.123.50:5001/render.m3u8?auth=sYKKi5dXcethsaaQ9HGj6FND3ehjcm9tkzWzTpxJnZirYTMy01_mzl4u6ugE7x0D9tXIjsZctBiyLR4lEoHtBkoAXnVUat7n-iEF2bxnWJndRC72dJklbbIm-HupneQBQJg_8c-Nqy0it0Tbh8dVsnr_KDTgM7e7KZ9fMCvKGrSqYhFslC6b5aphGib5Cm9Wr3zUu2vemGeQ3a8abwVJylBugpW0yO5NUQbaI_R8L6tMhqq8xCZdrbCNwulYQnpBPPRD2m0hrf9l-ySdJ_3ANF2z5sebHgrCXT4BDns24SVjzKgQVWTa05L5TVKUAezG7IBzo10t6TQk-vWIELqIQSmD4k_mkZJsRG8Mbg3g&channel_key_id=1345
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/9Xv8kgH4/e8da1b4d1606e72596a0533b3f9ca3a8.png",Sony Yny
 http://starshare.live:8080/live/7884362065/8020257649/204.ts
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/v81sJ3RF/7f92f7a33ad65b181b3cb93900b58228.png",Pogo 
-https://jiotv.watchtvs.live/watchtvs/ts_live_559.m3u8
+http://14.102.123.50:5001/live/559.m3u8
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/x15hJzr3/699391a2c013c54b4266bde15e2cb99c.png",Hangama 
 http://starshare.live:8080/live/7884362065/8020257649/18456.m3u8
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/NfYd6jkJ/8aff3a1f9fb17dc659828c0123c147f5.png",Wow Kidz Acton 
