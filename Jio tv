@@ -588,3 +588,7 @@ https://fundamental-ie-dish-sing.trycloudflare.com/app/live.php?id=733&e=.m3u
 https://fundamental-ie-dish-sing.trycloudflare.com/app/live.php?id=734&e=.m3u
 #EXTINF:-1 tvg-id="735" tvg-name="Sangeet Marathi" tvg-type="Music" group-title="Music" tvg-language="Marathi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Marathi.png",Sangeet Marathi
 https://fundamental-ie-dish-sing.trycloudflare.com/app/live.php?id=735&e=.m3u
+#EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/3RCBDLdy/7aa3ede3a9a05d6d9009b34ed0f914d0.png",Nick Bangla 
+https://fundamental-ie-dish-sing.trycloudflare.com/app/live.php?id=1341&e=.m3u
+#EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/3RCBDLdy/7aa3ede3a9a05d6d9009b34ed0f914d0.png",Sonic Bangla 
+https://fundamental-ie-dish-sing.trycloudflare.com/app/live.php?id=1345&e=.m3u
