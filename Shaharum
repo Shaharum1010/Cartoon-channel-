@@ -9,9 +9,9 @@ http://starshare.live:8080/live/Mubarak2024/Mu12312356@/147738.ts
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/6qsjdhLd/bf6d5e5ffa2259622fc5eabcba2e5b22.png",Gubbare
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/g002B7kq/01ef9db86b56a85ed9474bac2af17b55-1.png",Cartoon Network 
-https://fifabd.xyz/KID/play.m3u8?id=150483
+http://tv.cloudcdn.me:80/live.ts?channelId=244&uid=4166&deviceMac=00:1A:79:F3:9F:F5
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/rmyFqStN/5b17a33c349cb9bf7dd7976f38a9b754.png",Disney Hd
-https://fifabd.xyz/KID/play.m3u8?id=315401
+http://tv.cloudcdn.me:80/live.ts?channelId=251&uid=4166&deviceMac=00:1A:79:F3:9F:F5
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/rmyFqStN/5b17a33c349cb9bf7dd7976f38a9b754.png",Disney
 http://starshare.live:8080/live/Mubarak2024/Mu12312356@/147746.ts
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/MGZ5hPFy/7aa3ede3a9a05d6d9009b34ed0f914d0.png",Nick Bangla
