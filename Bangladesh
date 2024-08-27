@@ -6,10 +6,10 @@ https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.postimg.cc/v8X1ckcr/30737e0d3caad8a27d5daa148cda6dd4.png",G Tv
 http://ktv.im:8080/live/23457/23457/83780.ts
-#EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/nVG61QRc/54713955f2c2334c7a61bd23b4b29d3e.png",Anando tv
-http://opplextv.cyou:8080/live/773199/626227/245929.ts
-#EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/9fW5R849/15c94d0969ae92f4fb01c4bca48590b5.png",SATV
-http://tv.cloudcdn.me:80/live.ts?channelId=114&uid=3960&deviceMac=00:1A:79:09:AC:16
+#EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/c4MCSzQJ/images.png",Anando tv
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8
+#EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/PrrsCVgJ/2df5202cd6737d30a089ebe76d0c61ec.png",SATV
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.postimg.cc/P57dRZ1d/ed69726e95639af8a31114353110ef61.png",Rtv
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/playlist.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.postimg.cc/j50tsb89/00461a48a03f0ee2215ed653cd300c5f.png",Somy Tv
