@@ -15,7 +15,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=251&uid=4166&deviceMac=00:1A:79:F3:9F
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/rmyFqStN/5b17a33c349cb9bf7dd7976f38a9b754.png",Disney
 http://starshare.live:8080/live/Mubarak2024/Mu12312356@/147746.ts
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/MGZ5hPFy/7aa3ede3a9a05d6d9009b34ed0f914d0.png",Nick Bangla
-http://xtv.ooo:8080/live/09448630/09888785/362999.ts
+http://14.102.123.50:5001/render.m3u8?auth=snbff635_KT19Aw57o7HYrC0iwP51burfujf9nki9MybA2bXzuYQcLQ5sSFyESgOu6EyHgpPCldHX5MsKsRP6_vLPj7aRAKrC8GnM9czR-0dt9TV9Lrys75ql6KVy2meMzQayUcbnAV5UBHlONzd745cYTcM8gXJ_Q03LWG235zehIxfGAULKTs9EyE_vLagHYw3JxEuaXgm_gbZrNbthcZkZjktPUG54YhNhgZbHqbz8pQ64ZP8_XFVQ3mhIj5_4olrbv3qtEq68QHzAw7s5GOhci1YxpakkrXVuhROneCXWgQlg7fwtQ9eHo9MH6PxJ-1Z6Rt6btnsTpMuicSN6DHDddVvxg==&channel_key_id=1341
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/MGZ5hPFy/7aa3ede3a9a05d6d9009b34ed0f914d0.png",Nick hindi 
 http://opplex.tv:8080/live/773199/626227/150482.ts
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/MGZ5hPFy/7aa3ede3a9a05d6d9009b34ed0f914d0.png",Nick janey 
