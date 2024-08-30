@@ -40,7 +40,7 @@ http://14.102.123.50:5001/live/1657.m3u8
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9tnkQAQ6UNjg0W8LO1Z-e2W9PmAT_uvPbSg",Discovery Bengali
 https://cdn1-freeiptv25.vercel.app/m3u/discoverybengali.m3u8
-#EXTINF:-1 group-title=""tvg-log="https://i.postimg.cc/qRLcmSx6/images-1.jpg",Rupasi Bangla
+#EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/y8nsCJMb/download.jpg",Rupasi Bangla
 http://xsmarters.top:8080/live/0966717777/0966717777/245932.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.postimg.cc/C15wr1RW/Ekushey-Television-Logo-svg.png",Ekushey TV
 https://ekusheyserver.com/etvlivesn.m3u8
@@ -116,11 +116,6 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 group-title="BANGLADESH NEWS" tvg-logo="https://i.ibb.co/M6DLqSg/News-241664826177.jpg",News 24
 http://tv.cloudcdn.me:80/live.ts?channelId=107&uid=13556&deviceMac=00:1A:79:AB:DF:A6
 
-#EXTINF:-1 group-title="BANGLADESH NEWS" tvg-logo="https://i.ibb.co/CbtWjcm/ekhontv.png",Ekhon Tv 2
-https://ythls.armelin.one/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
-
-#EXTINF:-1 group-title="BANGLADESH NEWS" tvg-logo="https://i.ibb.co/hR57wkL/Jamuna-Tv1664825738.jpg",Jamuna Tv 2
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8
 #EXTINF:-1 group-title="BANGLADESH NEWS" tvg-logo="https://i.postimg.cc/MHXbGyvd/unnamed-1.png",Jago News 24
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jagonews24.stream/playlist.m3u8
 
@@ -134,15 +129,9 @@ https://byphdgllyk.gpcdn.net/hls/banglatvbd/0_1/index.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/tT4Frhtp/images-5-22.jpg",Bangla Europe Tv
 https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
 
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.imgur.com/sYZOVV5.png",Anando Tv 2
-http://cdn01.palki.tv/live/AnandaTV-M/index.m3u8
-http://opplextv.cyou:8080/live/773199/626227/245929.ts
-
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co/kMkJDdz/moviebanglatv-logo.png",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DURONTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="BANGLADESH", DURONTO TV 2
-http://cdn01.palki.tv/live/Duronto-M/index.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo70-sxW1iAFj1mQxFX7U6tC08rwFq0lZqV0MdpCZrEXrtHQslnKDi5v4J&s=10",Biswa Bangla 24
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/biswabanglatv.stream/playlist.m3u8
 
