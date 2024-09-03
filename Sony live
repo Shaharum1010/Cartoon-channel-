@@ -7,7 +7,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m
 http://tv.cloudcdn.me/live.ts?channelId=44150&uid=13603&deviceMac=00:1A:79:64:B4:A6
 
 #EXTINF:-1 group-title="SONYLIV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ3-64Mdiyfvjmeleb9TBwTItkVUZB2uJ2Xg&s",Sony Tv
-http://tv.cloudcdn.me/live.ts?channelId=193&uid=13603&deviceMac=00:1A:79:64:B4:A6
+http://tv.cloudcdn.me:80/live.ts?channelId=12356&uid=6154&deviceMac=00:1A:79:51:31:21
 
 #EXTINF:-1 tvg-id="" tvg-name="SONY MAX" tvg-logo="https://i.ibb.co/q9Nwjh0/Picsart-23-06-07-12-58-14-641.png" group-title="SONYLIV", SONY MAX
 http://tv.cloudcdn.me:80/live.ts?channelId=184&uid=6154&deviceMac=00:1A:79:51:31:21
@@ -19,13 +19,13 @@ http://tv.cloudcdn.me:80/live.ts?channelId=186&uid=6154&deviceMac=00:1A:79:51:31
 https://test-tan-iota-90.vercel.app/live/bdix/app/SonyMax2.m3u8
 
 #EXTINF:-1 group-title="SONYLIV" tvg-logo="https://i.imgur.com/qanBTkv.png",Sony Sab HD
-http://xsmarters.top:8080/live/0966717777/0966717777/221256.ts
+http://tv.cloudcdn.me:80/live.ts?channelId=260&uid=6154&deviceMac=00:1A:79:51:31:21
 
 #EXTINF:-1 group-title="SONYLIV" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20PAL.png",Sony PAL
-http://xsmarters.top:8080/live/0966717777/0966717777/104192.ts
+http://tv.cloudcdn.me:80/live.ts?channelId=188&uid=6154&deviceMac=00:1A:79:51:31:21
 
 #EXTINF:-1 group-title="SONYLIV" tvg-logo="https://i.imgur.com/ADXlju2.png",Sony WAH
-http://xtv.ooo:8080/live/09448630/09888785/112979.ts
+http://tv.cloudcdn.me:80/live.ts?channelId=187&uid=6154&deviceMac=00:1A:79:51:31:21
 
 #EXTINF:-1 group-title="SONYLIV" tvg-logo="https://nowmetv.xyz/wp-content/uploads/2021/05/marathis.png",Sony Marathi
 http://starshare.live:8080/live/Mubarak2024/Mu12312356@/5856.m3u8
@@ -50,3 +50,5 @@ https://cricsters.fun/s/stream.php?id=sony-ten-4-hd&e=.m3u8
 
 #EXTINF:-1 group-title="SONYLIV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Sony_Sports_Ten_5.png/revision/latest/scale-to-width-down/460?cb=20221025091902",Sony Sports Ten 5
 http://tv.cloudcdn.me:80/live.ts?channelId=105350&uid=1904&deviceMac=00:1A:79:4C:9A:52
+#EXTINF:-1 group-title="SONYLIV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ3-64Mdiyfvjmeleb9TBwTItkVUZB2uJ2Xg&s",Sony Tv uk
+http://tv.cloudcdn.me:80/live.ts?channelId=194&uid=6154&deviceMac=00:1A:79:51:31:21
