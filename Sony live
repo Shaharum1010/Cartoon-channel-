@@ -4,22 +4,22 @@ https://t.me/SmartFlix_Tv
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
 
 #EXTINF:-1 group-title="SONYLIV" tvg-logo="https://i.postimg.cc/N0sxVy1G/Sony-Aath-new.png",Sony Aath
-http://tv.cloudcdn.me/live.ts?channelId=44150&uid=13603&deviceMac=00:1A:79:64:B4:A6
+http://tv.cloudcdn.me:80/live.ts?channelId=44150&uid=4166&deviceMac=00:1A:79:F3:9F:F5
 
 #EXTINF:-1 group-title="SONYLIV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ3-64Mdiyfvjmeleb9TBwTItkVUZB2uJ2Xg&s",Sony Tv
 http://tv.cloudcdn.me:80/live.ts?channelId=12356&uid=6154&deviceMac=00:1A:79:51:31:21
 
 #EXTINF:-1 tvg-id="" tvg-name="SONY MAX" tvg-logo="https://i.ibb.co/q9Nwjh0/Picsart-23-06-07-12-58-14-641.png" group-title="SONYLIV", SONY MAX
-http://tv.cloudcdn.me:80/live.ts?channelId=184&uid=6154&deviceMac=00:1A:79:51:31:21
+http://tv.cloudcdn.me:80/live.ts?channelId=186&uid=4166&deviceMac=00:1A:79:F3:9F:F5
 
 #EXTINF:-1 tvg-id="" tvg-name="SONY MAX" tvg-logo="https://i.ibb.co/q9Nwjh0/Picsart-23-06-07-12-58-14-641.png" group-title="SONYLIV", SONY MAX HD
-http://tv.cloudcdn.me:80/live.ts?channelId=186&uid=6154&deviceMac=00:1A:79:51:31:21
+http://tv.cloudcdn.me:80/live.ts?channelId=184&uid=4166&deviceMac=00:1A:79:F3:9F:F5
 
 #EXTINF:-1 group-title="SONYLIV" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/f/f4/Sony_Max_2_new_logo.png",Sony Max 2
 https://test-tan-iota-90.vercel.app/live/bdix/app/SonyMax2.m3u8
 
 #EXTINF:-1 group-title="SONYLIV" tvg-logo="https://i.imgur.com/qanBTkv.png",Sony Sab HD
-http://tv.cloudcdn.me:80/live.ts?channelId=260&uid=6154&deviceMac=00:1A:79:51:31:21
+http://tv.cloudcdn.me:80/live.ts?channelId=260&uid=4166&deviceMac=00:1A:79:F3:9F:F5
 
 #EXTINF:-1 group-title="SONYLIV" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20PAL.png",Sony PAL
 http://tv.cloudcdn.me:80/live.ts?channelId=188&uid=6154&deviceMac=00:1A:79:51:31:21
@@ -37,7 +37,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=189&uid=6154&deviceMac=00:1A:79:51:31
 http://xsmarters.top:8080/live/0966717777/0966717777/26187.m3u8
 
 #EXTINF:-1 group-title="SONYLIV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png",Sony Sports Ten 1
-http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=6154&deviceMac=00:1A:79:51:31:21
+http://xsmarters.top:8080/live/0966717777/0966717777/167570.m3u8
 
 #EXTINF:-1 group-title="SONYLIV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png",Sony Sports Ten 2
 http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=6154&deviceMac=00:1A:79:51:31:21
