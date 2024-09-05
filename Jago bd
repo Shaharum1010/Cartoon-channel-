@@ -1,7 +1,5 @@
-
+https://mhdtv.co.in/daddy/stream.m3u8?id=270|Referer=https://mhdtv.co.in/daddy/stream.m3u8?id
 #EXTINF:-1 group-title="telegram" tvg-logo="https://i.postimg.cc/BbWnpdnH/IMG-20240905-203258-731.jpg",https://t.me/SmartFlix_Tv
-
-
 #EXTINF:-1 tvg-logo="Logo Link" group-title="JAGOBD Channel", BTV 
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/Btv-g.stream/playlist.m3u8 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="JAGOBD Channel", Ekushey TV 
@@ -138,3 +136,5 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="JAGOBD Channel" DW News 
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dwnews.stream/playlist.m3u8 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="j",Test
+https://mhdtv.co.in/daddy/stream.m3u8?id=270|Referer=https://mhdtv.co.in/daddy/stream.m3u8?id
