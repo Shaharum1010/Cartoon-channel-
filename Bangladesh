@@ -108,7 +108,7 @@ https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=Lx985h6ZaXKS
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png",T Sports
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/365/logo/240x240/mobile_logo_731536001673438371.png", Nagorik TV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8
+https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=mgQpiwGjx0ixrkbOnP9cYA&expires=1725792900&user=c15be118d93a464dabf77260596012cf
 
 #EXTINF:-1 group-title="BANGLADESH NEWS" tvg-logo="https://i.ibb.co/M6DLqSg/News-241664826177.jpg",News 24
 http://tv.cloudcdn.me:80/live.ts?channelId=107&uid=13556&deviceMac=00:1A:79:AB:DF:A6
