@@ -27,4 +27,9 @@ https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/toffee-op/index.m3u8?
 
 #EXTINF:-1 group-title="TOFFEE" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_141811001712122330.png", TOFFEE Sports VIP 
 https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/toffee-op/index.m3u8?id=sports_highlights 
- 
+
+#EXTINF:-1 group-title="TOFFEE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnsFsP1r7rfZhidgYsIZIMjQSio5n684KDVAqEJDsDN0OnU9pEtgY2YMcW&s=10",Zee Tv Hd
+https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_tv_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="TOFFEE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa5iAe0cFuJK1dXvoDnp6_fjErglIHbG_DSQ&s",Z Cinema 
+https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_cinema_hd/playlist.m3u8
