@@ -44,3 +44,5 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_pix_hd/playlist.m3u8
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_bbc_earth_hd/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="j",Test
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="j",St
+https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_yay/playlist.m3u8
