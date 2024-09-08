@@ -139,6 +139,7 @@ https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=Lx985h6ZaXKS
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png",T Sports
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8
+
 #EXTINF:-1 group-title="BANGLADESH" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/365/logo/240x240/mobile_logo_731536001673438371.png", Nagorik TV
 https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=mgQpiwGjx0ixrkbOnP9cYA&expires=1725792900&user=c15be118d93a464dabf77260596012cf
 
@@ -180,7 +181,7 @@ https://iptvbd.live/metv1080/1080.m3u8
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqYDylO0mRVwNyxB49KNNFNHm4w2_Cc6h6rg&s",Jagorani Tv
-https://global.ncare.live/streams/jagoronitv.stream/playlist.m3u8
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jagoronitv.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/Wz6nC2qP/images-5-25.jpg",B24C
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/b24c.stream/playlist.m3u8
