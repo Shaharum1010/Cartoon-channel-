@@ -30,3 +30,24 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla1/default/Zeebangla1.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719926612080.png",RTV
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719925386622.png",Cineplex Hd
+http://tv.cloudcdn.me:80/live.ts?channelId=470&uid=6154&deviceMac=00:1A:79:51:31:21
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719926685888.png",Colors Bangla 
+http://xsmarters.top:8080/live/0966717777/0966717777/245895.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719925954547.png",Colors Hd
+http://tv.cloudcdn.me:80/live.ts?channelId=160&uid=6154&deviceMac=00:1A:79:51:31:21
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719926957023.png",Disny jr
+http://tv.cloudcdn.me:80/live.ts?channelId=251&uid=16068&deviceMac=00:1A:79:ED:10:29
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719925762981.png",HUM TV
+http://xsmarters.top:8080/live/0966717777/0966717777/221339.ts
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719927021670.png",Nick
+http://tv.cloudcdn.me:80/live.ts?channelId=252&uid=7084&deviceMac=00:1A:79:99:1F:A8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719985680308.png",Sonic
+http://tv.cloudcdn.me:80/live.ts?channelId=40476&uid=7084&deviceMac=00:1A:79:99:1F:A8
