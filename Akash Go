@@ -51,3 +51,35 @@ http://tv.cloudcdn.me:80/live.ts?channelId=252&uid=7084&deviceMac=00:1A:79:99:1F
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719985680308.png",Sonic
 http://tv.cloudcdn.me:80/live.ts?channelId=40476&uid=7084&deviceMac=00:1A:79:99:1F:A8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720359542393.png",Star Jalsha 
+http://tv.cloudcdn.me:80/live.ts?channelId=116&uid=16068&deviceMac=00:1A:79:ED:10:29
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719927885394.png",Jalsha movie 
+http://tv.cloudcdn.me:80/live.ts?channelId=117&uid=16068&deviceMac=00:1A:79:ED:10:29
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719927885394.png",Star Pules
+http://tv.cloudcdn.me:80/live.ts?channelId=200&uid=16068&deviceMac=00:1A:79:ED:10:29
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720701862733.png",ZTV
+http://tv.cloudcdn.me:80/live.ts?channelId=12301&uid=16068&deviceMac=00:1A:79:ED:10:29
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720701862733.png",Z Bangla Cinema 
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720702595466.png",Str Golod
+http://tv.cloudcdn.me:80/live.ts?channelId=12358&uid=16068&deviceMac=00:1A:79:ED:10:29
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720703141689.png",Channel 24
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1722948448337.png",Jamuna Tv
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1723795259114.png",Star Sports 1
+http://tv.cloudcdn.me:80/live.ts?channelId=49566&uid=16068&deviceMac=00:1A:79:ED:10:29
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1723808066858.png",Str Sports Select 2
+http://tv.cloudcdn.me:80/live.ts?channelId=300&uid=16068&deviceMac=00:1A:79:ED:10:29
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1723809087828.png",Str Sports Select 1
+http://tv.cloudcdn.me:80/live.ts?channelId=299&uid=16068&deviceMac=00:1A:79:ED:10:29
