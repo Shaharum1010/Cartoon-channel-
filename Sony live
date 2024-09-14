@@ -2,7 +2,7 @@
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
 
 #EXTINF:-1 group-title="SONYLIV" tvg-logo="https://i.postimg.cc/N0sxVy1G/Sony-Aath-new.png",Sony Aath
-http://ktv.im:8080/live/1234512345/1234512345/83772.ts
+http://tv.cloudcdn.me:80/live.ts?channelId=44150&uid=16068&deviceMac=00:1A:79:ED:10:29
 
 #EXTINF:-1 group-title="SONYLIV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ3-64Mdiyfvjmeleb9TBwTItkVUZB2uJ2Xg&s",Sony Tv
 http://tv.cloudcdn.me:80/live.ts?channelId=12356&uid=6154&deviceMac=00:1A:79:51:31:21
@@ -10,19 +10,19 @@ http://tv.cloudcdn.me:80/live.ts?channelId=12356&uid=6154&deviceMac=00:1A:79:51:
 #EXTINF:-1 tvg-id="" tvg-name="SONY MAX" tvg-logo="https://i.ibb.co/q9Nwjh0/Picsart-23-06-07-12-58-14-641.png" group-title="SONYLIV", SONY Max Hd
 https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/toffee-live/index.m3u8?id=set_max_hd
 #EXTINF:-1 tvg-id="" tvg-name="SONY MAX" tvg-logo="https://i.ibb.co/q9Nwjh0/Picsart-23-06-07-12-58-14-641.png" group-title="SONYLIV", SONY MAX 
-http://tv.cloudcdn.me:80/live.ts?channelId=186&uid=7084&deviceMac=00:1A:79:99:1F:A8
+http://tv.cloudcdn.me:80/live.ts?channelId=186&uid=16068&deviceMac=00:1A:79:ED:10:29
 
 #EXTINF:-1 group-title="SONYLIV" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/f/f4/Sony_Max_2_new_logo.png",Sony Max 2
 https://test-tan-iota-90.vercel.app/live/bdix/app/SonyMax2.m3u8
 
 #EXTINF:-1 group-title="SONYLIV" tvg-logo="https://i.imgur.com/qanBTkv.png",Sony Sab HD
-http://opplex.tv:8080/live/835720/9372490/66174.ts
+http://tv.cloudcdn.me:80/live.ts?channelId=192&uid=16068&deviceMac=00:1A:79:ED:10:29
 
 #EXTINF:-1 group-title="SONYLIV" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20PAL.png",Sony PAL
-http://starshare.live:8080/live/9826816920/8625825719/9365.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=188&uid=16068&deviceMac=00:1A:79:ED:10:29
 
 #EXTINF:-1 group-title="SONYLIV" tvg-logo="https://i.imgur.com/ADXlju2.png",Sony WAH
-http://xsmarters.top:8080/live/0966717777/0966717777/112979.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=187&uid=16068&deviceMac=00:1A:79:ED:10:29
 
 #EXTINF:-1 group-title="SONYLIV" tvg-logo="https://nowmetv.xyz/wp-content/uploads/2021/05/marathis.png",Sony Marathi
 http://ktv.im:8080/live/1234512345/1234512345/84279.ts
