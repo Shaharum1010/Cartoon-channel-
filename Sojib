@@ -2,8 +2,6 @@
 http://tv.cloudcdn.me:80/live.ts?channelId=123908&uid=10153&deviceMac=00:1A:79:91:38:01
 #EXTINF:-1group-title=""tvg-logo="https://i.postimg.cc/26mr6cFt/FB-IMG-17195703525425226.jpg",Shaharum 2
 http://tv.cloudcdn.me:80/live.ts?channelId=123908&uid=6154&deviceMac=00:1A:79:51:31:21
-#EXTINF:-1gliv-title=""tvg-logo="https://i.postimg.cc/26mr6cFt/FB-IMG-17195703525425226.jpg",Shaharum Hd
-http://xsmarters.top:8080/live/0966717777/0966717777/310906.ts
 #EXTINF:-1group-title=""tvg-logo="https://i.postimg.cc/26mr6cFt/FB-IMG-17195703525425226.jpg",Shaharum Bangla 
 https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/4xg1dpH0/Z.jpg",Peace tv Bangla 
