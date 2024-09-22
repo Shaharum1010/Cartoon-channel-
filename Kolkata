@@ -28,7 +28,7 @@ http://xtv.ooo:8080/live/09448630/09888785/245895.ts
 
 
 #EXTINF:-1 tvg-id="" tvg-name="COLORS BANGLA CINEMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Colors_Bangla_Cinema.png/revision/latest?cb=20200720045951" group-title="KOLKATA", COLORS BANGLA CINEMA
-https://colorsscreen.com/live.php?id=1657&extension=.m3u8
+http://mrking.online/LUND/live.m3u8?id=1657
 
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/L4nx2ZGn/image.jpg",Sun Bangla 
 http://xtv.ooo:8080/live/09448630/09888785/245906.ts
