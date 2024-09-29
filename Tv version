@@ -344,11 +344,10 @@ https://colorsscreen.com/live.php?id=1669&extension=.m3u8|Referer=https://colors
 
 
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/N0sxVy1G/Sony-Aath-new.png",Sony Aath
-https://keralamaxtv.com/sliv/stream.php?id=195&e=.m3u8|Referer=https://keralamaxtv.com//&key=BDStreamHub
-https://api.iptvbd.xyz/api/sony_aath.m3u8
+http://xtv.ooo:8080/live/57530716/48076436/245989.ts
 
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/bvV1BmyL/Enterr10-Bangla.jpg",Enter 10 Bangla
-https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
+https://fprk.short.gy/SmartFlixEntenbangla.m3u8
 
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/311da839-6234-4d72-b363-090c39bdbc67_180x180_RupshiBangla.jpg",Rupshi Bangla 
 https://cdn3.pishow.tv/live/281/master.m3u8
