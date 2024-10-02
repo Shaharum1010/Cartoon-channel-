@@ -641,12 +641,28 @@ https://ythls.armelin.one/channel/UCbmWOFTbZoDLWqG1rvFnJ0g.m3u8
 https://fprk.short.gy/SmartFlixtvpo.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg8HES2tUB4reIXMjiMJk-z9EBknI5aazdcw&s",Hungama tv
-http://mega4k.one:8080/live/030296/030296/92417.m3u8
+http://xtv.ooo:8080/live/57530716/48076436/150480.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/YTfbaxj.png",Super Hungama tv
 http://103.84.57.155:8000/play/a03w/index.m3u8
 
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/6qsjdhLd/bf6d5e5ffa2259622fc5eabcba2e5b22.png",Gubbare
+https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/mkK9bshs/d12735ba965e0ba65f62a7205e8309d4.png",Nick hd
+https://fprk.short.gy/SmartFlixtvnickhd.m3u8
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvzPL1NT7sPwaREuRyRZz4011q4BPV5wERWQ&s",WOW Kids Acton 
+http://xtv.ooo:8080/live/1788/1788/314753.m3u8
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvzPL1NT7sPwaREuRyRZz4011q4BPV5wERWQ&s",WOW Kids
+http://opplex.tv:8080/live/488197/435900/315401.ts
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc7NaMaJ0YASjjVlGATNMh-C3ijKQH89MFGg&s",Motu Patlu
+http://opplex.tv:8080/live/488197/435900/311373.ts
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLR5LZ6GHJHI8mcSKSPURoFk3nb2jcoNg-QA&s",Chaha Bhatija 
+http://opplex.tv:8080/live/488197/435900/311774.ts
 
 
 
