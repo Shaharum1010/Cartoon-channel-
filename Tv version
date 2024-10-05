@@ -583,13 +583,13 @@ http://tv.cloudcdn.me:80/live.ts?channelId=129790&uid=10016&deviceMac=00:1A:79:2
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 
 #EXTINF:-1 group-title="PAKISTAN" tvg-logo="https://play-lh.googleusercontent.com/OfBAdFzmQbxcIK2zMIre26g1LDUQyIfvHaHYhETDiFCSHxZa8C4yIG4iWRuw0riJM9E", ARY Zindagi
-http://starshare.live:8080/live/3569087360/6542246996/123.ts
+http://tv.cloudcdn.me:80/live.ts?channelId=382&uid=16068&deviceMac=00:1A:79:ED:10:29
 
 #EXTINF:-1 group-title="PAKISTAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png",HUM TV
 http://starshare.live:8080/live/3569087360/6542246996/122.ts
 
 #EXTINF:-1 group-title="PAKISTAN" tvg-logo="https://lh3.googleusercontent.com/bS7CCJTsNdNwANvBbk5x2ekyMilOc1oToCrcTQ-bJNmDNNUMVKjpxB5YDm6ZbaSwZg", Geo Entertainment
-http://starshare.live:8080/live/3569087360/6542246996/119.ts
+http://tv.cloudcdn.me:80/live.ts?channelId=128505&uid=16068&deviceMac=00:1A:79:ED:10:29
 
 #EXTINF:-1 group-title="PAKISTAN" tvg-logo="https://i.imgur.com/QSaZPJ4.png",Pakistan Movie 
 http://opplex.tv:8080/live/835720/9372490/251695.ts
