@@ -601,7 +601,26 @@ http://starshare.live:8080/live/3569087360/6542246996/20460.ts
 http://starshare.live:8080/live/3569087360/6542246996/859.ts
 
 #EXTINF:-1 group-title="PAKISTAN" tvg-logo="https://i.imgur.com/XBHvR5J.png",Apna Tv
-http://opplex.tv:8080/live/835720/9372490/25998.m3u8
+http://opplex.tv:8080/live/835720/9372490/25998.ts
+
+#EXTINF:-1 group-title="PAKISTAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdTWBD81zpWbKhhnPnu6i7Fo2udBk3eEHMx2k0vfMBu1ZqQvK3lkEhdeldosomE6ee0kla8PEdKDhX1SKGFMN1FSC5SJQiGZtPGMNgmtQ",Ary zindagi
+http://opplex.tv:8080/live/835720/9372490/25990.ts
+
+#EXTINF:-1 group-title="PAKISTAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/GEO_News_logo_in_Urdu.png",GEO NEWS 
+http://opplex.tv:8080/live/835720/9372490/221343.ts
+
+#EXTINF:-1 group-title="PAKISTAN " tvg-logo="j",92 NEWS 
+http://opplex.tv:8080/live/835720/9372490/25996.ts
+
+#EXTINF:-1 group-title="PAKISTAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGPnNdEz0yndjBedRVyeG1KPB-Y0YZ7kB1ZQ&s",Bol entertainment Hd
+http://opplex.tv:8080/live/835720/9372490/26045.ts
+
+#EXTINF:-1 group-title="PAKISTAN" tvg-logo="j",GEO Kahani hd
+http://xsmarters.top:8080/live/0966717777/0966717777/221341.ts
+
+#EXTINF:-1 group-title="PAKISTAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5PwK06mEg7FcG2dfnBShc0L2UI4-Wzzb4uhmO7mIFc1WpPpRw8yqyEVdQ&s=10",PTV Hom
+http://xsmarters.top:8080/live/0966717777/0966717777/221342.ts
+
 
 
 
