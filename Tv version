@@ -30,7 +30,7 @@ http://starshare.live:8080/live/3569087360/6542246996/3802.ts
 https://fifabd.xyz/TOFxE/play.m3u8?id=match-3
 
 #EXTINF:-1 group-title="Icc Women T20 World Cup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXAnFJs3QNPcdfM_6aEvZ125pbKUE5YJIp3A&s",Women T20 World cup OCT 03-OCT 20
-https://rr2---sn-npoe23nsr.creativehub.sbs/SuperSport_Cricket_Live_TV/index.m3u8
+https://madplay.live/hls/crichd/index.php?id=supercricket&e=.m3u8|Referer=https://madplay.live/
 
 
 
@@ -591,8 +591,17 @@ http://starshare.live:8080/live/3569087360/6542246996/122.ts
 #EXTINF:-1 group-title="PAKISTAN" tvg-logo="https://lh3.googleusercontent.com/bS7CCJTsNdNwANvBbk5x2ekyMilOc1oToCrcTQ-bJNmDNNUMVKjpxB5YDm6ZbaSwZg", Geo Entertainment
 http://starshare.live:8080/live/3569087360/6542246996/119.ts
 
+#EXTINF:-1 group-title="PAKISTAN" tvg-logo="https://i.imgur.com/QSaZPJ4.png",Pakistan Movie 
+http://opplex.tv:8080/live/835720/9372490/251695.ts
 
+#EXTINF:-1 group-title="PAKISTAN" tvg-logo="https://i.imgur.com/VXVnXXi.png",HUM Sitaray
+http://starshare.live:8080/live/3569087360/6542246996/20460.ts
 
+#EXTINF:-1 group-title="PAKISTAN" tvg-logo="https://i.imgur.com/QSaZPJ4.png",Play Tv
+http://starshare.live:8080/live/3569087360/6542246996/859.ts
+
+#EXTINF:-1 group-title="PAKISTAN" tvg-logo="https://i.imgur.com/XBHvR5J.png",Apna Tv
+http://opplex.tv:8080/live/835720/9372490/25998.m3u8
 
 
 
