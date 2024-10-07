@@ -175,7 +175,7 @@ http://tv.cloudcdn.me/live.ts?channelId=103&uid=8164&deviceMac=00:1A:79:17:D4:A1
 http://176.119.29.52/live.ts?channelId=85&uid=13603&deviceMac=00:1A:79:64:B4:A6
 
 #EXTINF:-1 group-title="BANGLADESH NEWS" tvg-logo="https://i.postimg.cc/qvpqXpGd/svg.png",Somoy TV
-https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
+http://starshare.live:8080/live/3569087360/6542246996/422.ts
 
 
 #EXTINF:-1 group-title="BANGLADESH NEWS" tvg-logo="https://i.ibb.co/cQk0MMk/independenttv.png",Independent 
@@ -209,8 +209,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=114&uid=3960&deviceMac=00:1A:79:09:AC
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=1938a86s&e=.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png",Gtv
-http://tv.cloudcdn.me/live.ts?channelId=98&uid=8164&deviceMac=00:1A:79:17:D4:A1
-https://evbr.short.gy/Bdstreamhub/jadoobd.Gazi_tv.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=98&uid=16068&deviceMac=00:1A:79:ED:10:29
+
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxh4GJlxyhGoIe0w52tfWbqY-hAXRJbRgVJKem_xJ9NZ6JVWIRk7vZA7I&s=10",T Sports
 https://mhdtv.co.in/daddy/stream.m3u8?id=270|Referer=https://mhdtv.co.in//&key=BDStreamHub
@@ -223,7 +223,7 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8?
 
 
 #EXTINF:-1 group-title="BANGLADESH NEWS" tvg-logo="https://i.ibb.co/M6DLqSg/News-241664826177.jpg",News 24
-http://tv.cloudcdn.me:80/live.ts?channelId=107&uid=13556&deviceMac=00:1A:79:AB:DF:A6
+http://t0/live.ts?channelId=107&uid=13556&deviceMac=00:1A:79:AB:DF:A6
 https://ythls.armelin.one/channel/UCb2O5Uo4a26CdTE7_2QA-jA.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH NEWS" tvg-logo="https://i.ibb.co/9qqVcXr/dbcnews.png",DBC News
