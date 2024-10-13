@@ -5,23 +5,20 @@ https://t.me/bdstreamhub
 https://t.me/SmartFlix_Tv
 
 
-#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT5X8q9NK9UnunN0AMfuIhEcEyPrGIZ_ujxZRfIhyh358yE2eJoNkgX0po&s=10",Bangladesh V/S India T20
-http://103.190.85.38/hls/tsports.m3u8
 
-#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT5X8q9NK9UnunN0AMfuIhEcEyPrGIZ_ujxZRfIhyh358yE2eJoNkgX0po&s=10",Bangladesh V/S India T20
-https://neestreamtv.com/jcinema/stream.m3u8?id=0000001|Referer=https://neestreamtv.com//&key=BDStreamHub
+
+
+
+
 
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7turk-It28Clyn8Eu0OBCIr9B2gQIRNZjJw&s",India ISL LIVE
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD15_DIG_MOB/Fallback/index.m3u8|Referer=https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD15_DIG_MOB/Fallback/index.m3u8
 
 
-#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvXqRhCZyiBP5aI_2w1ybl-rUPlThNkQcGOB_TxCYm56CDcXSXT8OPGKpN&s=10",Caribbean Premium League
-https://madplay.live/hls/crichd/index.php?id=willowusa&e=.m3u8|Referer=https://madplay.live/hls/crichd/index.php?id=willowusa&e=.m3u8//&key=SmartFlixtv
 
-#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5IRv2THhHf4JOjiID-9Dc5m3_3pzp49agBlYD9onQtQ&s",Ireland VS South Africa ODI
-https://ythls.armelin.one/channel/UCY3N2mFyFf6RkaQbPdFj-dg.m3u8
-#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5IRv2THhHf4JOjiID-9Dc5m3_3pzp49agBlYD9onQtQ&s",Ireland VS South Africa  ODI
-https://fprk.short.gy/SmartFlixtvsu.m3u8
+
+
+
 
 #EXTINF:-1 group-title="Icc Women T20 World Cup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXAnFJs3QNPcdfM_6aEvZ125pbKUE5YJIp3A&s",Women T20 World cup OCT 03-OCT 20
 http://starshare.live:8080/live/3569087360/6542246996/3802.ts
@@ -59,7 +56,7 @@ https://mhdtv.co.in/daddy/stream.m3u8?id=135|Referer=https://mhdtv.co.in//&key=B
 #EXTINF:-1 group-title="FOTBALL PREMIERE LEAGUE" tvg-logo="https://nowmesports.com/wp-content/uploads/2023/08/SAUDIPRO.webp",Saudi Pro League
 https://dai.google.com/ssai/event/QNEZiPzpTXucyrbpCjdZTw/master.m3u8|Referer=https://dai.google.com//&key=BDStreamHub
 
-#EXTINF:-1 group-title="FOTBALL PREMIERE LEAGUE" tvg-logo="https://nowmesports.com/wp-content/uploads/2023/08/SAUDIPRO.webp",Saudi Pro League
+#EXTINF:-1 group-title="REMIERE LEAGUE" tvg-logo="https://nowmesports.com/wp-content/uploads/2023/08/SAUDIPRO.webp",Saudi Pro League
 http://typhoonott.com:8789/play/live.php?mac=00:1A:79:b8:71:c0&stream=248865&extension=m3u8
 
 #EXTINF:-1 group-title="FOTBALL PREMIERE LEAGUE" tvg-logo="https://nowmesports.com/wp-content/uploads/2023/08/SAUDIPRO.webp",Saudi Pro League
@@ -92,8 +89,8 @@ https://neestreamtv.com/jcinema/stream.m3u8?id=0000001|Referer=https://neestream
 #EXTINF:-1 group-title="FOTBALL PREMIERE LEAGUE" tvg-logo="https://nowmesports.com/wp-content/uploads/2023/09/isl2.webp",Indian Super League
 https://neestreamtv.com/jcinema/stream.m3u8?id=0000002|Referer=https://neestreamtv.com//&key=BDStreamHub
 
-
-
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.postimg.cc/jdK93HTJ/images-5-10.jpg",Peace Tv
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 
@@ -107,13 +104,13 @@ https://ythls.armelin.one/channel/UCos52azQNBgW63_9uDJoPDA.m3u8
 https://pull-cdnw.anystream.uk/live/2da6b413018e100097c37f4200000000/playlist.m3u8
 
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.imgur.com/GQhXlx8.jpg",Madina Tv
-https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
+http://62.182.80.86/0fOpMCbaCruvDps/Js057UiSms/4636
 
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.imgur.com/xuNhiek.png",Islam Bangla
 https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8
 
-
-
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/mg15t8NJ/images-1-4.png",BTV National 
 http://176.119.29.52/live.ts?channelId=44154&uid=16068&deviceMac=00:1A:79:ED:10:29
@@ -146,7 +143,7 @@ https://evbr.short.gy/BDStreamHub/jadoobd.atnbangla.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=83&uid=10016&deviceMac=00:1A:79:20:6F:F3
 https://evbr.short.gy/Bdstreamhub/jadoobd.atn_news.m3u8
 
-#EXTINF:-1 group-title="BANGLADESH NEWS" tvg-logo="https://i.postimg.cc/QtFbyM4P/images-5-19.jpg",Desh Tv
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/QtFbyM4P/images-5-19.jpg",Desh Tv
 https://evbr.short.gy/BDStreamHub/channel_I.m3u
 
 
@@ -308,8 +305,8 @@ https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:-1 group-title="BANGLADESH NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuY5J18OBIB9sVFlC3zRiJM3LFujuwAKm4RDzjKcFKeGumnoGAjaa33NAv&s=10",The_Tok_Show
 http://tv.cloudcdn.me:80/live.ts?channelId=44155&uid=16068&deviceMac=00:1A:79:ED:10:29
 
-
-
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png",Zee Bangla
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla1/default/Zeebangla1.m3u8|Referer=https://d1g8wgjurz8via.cloudfront.net//&key=BDStreamHub
@@ -374,7 +371,7 @@ https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.imgur.com/N46NOiC.jpg",Amar Digital 
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 
-
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 #EXTINF:-1 group-title="KOLKATA NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-dSqBcEqAp3yjlFXxzzAzT-whLCiaARnEgw&usqp=CAU",Zee 24 Ghonta
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/24ghanta/default/index.m3u8
@@ -388,9 +385,9 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 #EXTINF:-1 group-title="KOLKATA NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_dkuhURvTgI96Tf-9hCKJKmE7T6YAmewdg&usqp=CAU",Republic Bangla
 https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/main.m3u8?ads.partner=republicweb
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-
-
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8Ptbe3BcipeORtycnVC0qdsq6w_DMcDngWN7XEFEt&s",& Tv
@@ -493,8 +490,8 @@ https://evbr.short.gy/BDStreamHub/Goldmines.ts
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXv4xURd0N6Rfwu0GGcXn6DPoVDOnxR-I2jiyiyEIejAItC4F5Uj3mAT9p&s=10",Goldmines Bollywood
 https://evbr.short.gy/BDStreamHub/Goldmines_Bollywood.ts
 
-
-
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 #EXTINF:-1 group-title="ZEE 5" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png",& Pictures HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
@@ -545,8 +542,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeemarathi1/default/zeemarathi1.m3u
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetalkieshd1/default/zeetelkieshd1.m3u8
 
 
-
-
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png",Sony Pix
 https://keralamaxtv.com/sliv/stream.php?id=785&e=.m3u8|Referer=https://keralamaxtv.com//&key=BDStreamHub
@@ -575,9 +572,9 @@ http://starshare.live:8080/live/14161416/14161416/151142.m3u8
 
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://nowmetv.xyz/wp-content/uploads/2021/09/cinemaxtvs.webp",CineMax
 http://tv.cloudcdn.me:80/live.ts?channelId=129790&uid=10016&deviceMac=00:1A:79:20:6F:F3
-
-
-
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+   
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 #EXTINF:-1 group-title="PAKISTAN" tvg-logo="https://i.imgur.com/IJH47fJ.png",Discover Pakisthan
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 
@@ -620,8 +617,8 @@ http://xsmarters.top:8080/live/0966717777/0966717777/221341.ts
 #EXTINF:-1 group-title="PAKISTAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5PwK06mEg7FcG2dfnBShc0L2UI4-Wzzb4uhmO7mIFc1WpPpRw8yqyEVdQ&s=10",PTV Hom
 http://xsmarters.top:8080/live/0966717777/0966717777/221342.ts
 
-
-
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgOKtkFIEnXQ2kWRKrQArUd3lNG2WSlWEnSFPIdC9plQ&s",KHUSHBOO BANGLA
 https://cdn3.pishow.tv/live/283/master.m3u8
@@ -699,8 +696,8 @@ http://opplex.tv:8080/live/488197/435900/311373.ts
 http://opplex.tv:8080/live/488197/435900/311774.ts
 
 
-
-
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png",Sony Sports Ten 1
 https://nowsports.in/sliv/stream.php?id=7541236&e=.m3u8|Referer=https://nowsports.in//&key=BDStreamHub
@@ -792,8 +789,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-ci
 
 
 
-
-
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLYgRc1lrUmKeVJj7_85fqp-81xHzGuKGsGQ&usqp=CAU",Discovery Bangla
@@ -843,8 +840,8 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Tlc/default/index.m3u8|Referer=https
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Epic_TV_channel.jpg",Epic 
 https://epiconvh.s.llnwi.net/epic/master.m3u8
-
-
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://logowik.com/content/uploads/images/al-jazeera-tv6503.jpg",ALJazeera TV
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
@@ -873,8 +870,8 @@ https://vg-zeefta.akamaized.net/ptnr-yupptv/title-Zee_News/v1/master/611d79b11b7
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-news/master.m3u8
 
 
-
-
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co/4JKq09m/Picsart-23-06-07-11-49-33-298.png",Sangeet Bangla
@@ -933,8 +930,8 @@ https://stream.e2is.in/hls/7xMusic.m3u8|Referer=https://stream.e2is.in//&key=BDS
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/zkRAgqv.jpg",Songeet Bhojpuri
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/sangeetbhojpuri-audio_208482_und=208000-video=2137600.m3u8
-
-
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 #EXTINF:-1 group-title="PUNJAB" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNZZ0I_tBZqVY5H60rWgw8Zl_32qQ9jYzI3Kz-O6qXHsagVMcRpnBeSG4&s=10",PTC Punjab 
 http://opplex.tv:8080/live/835720/9372490/244362.ts
