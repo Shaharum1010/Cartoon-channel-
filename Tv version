@@ -66,7 +66,7 @@ http://typhoonott.com:8789/play/live.php?mac=00:1A:79:b8:71:c0&stream=248865&ext
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=cNYskkVd_UPtTNkxW4eP2nWMAMQjeiPdsnI6KTu_oByQH&s=10",Islam Tv
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/islamtv.stream/playlist.m3u8
+https://pull-cdnw.anystream.uk/live/2da6b413018e100097c37f4200000000/playlist.m3u8
 
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH_BR80dBFCX8mRb79IiDJCgtE8ivQwpW1m6dcDAjybuI9Hp4ZDaxopKc&s=10",Makkah Live
 https://ythls.armelin.one/channel/UCos52azQNBgW63_9uDJoPDA.m3u8
@@ -75,7 +75,7 @@ https://ythls.armelin.one/channel/UCos52azQNBgW63_9uDJoPDA.m3u8
 https://pull-cdnw.anystream.uk/live/2da6b413018e100097c37f4200000000/playlist.m3u8
 
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.imgur.com/GQhXlx8.jpg",Madina Tv
-http://62.182.80.86/0fOpMCbaCruvDps/Js057UiSms/4636
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
 
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.imgur.com/xuNhiek.png",Islam Bangla
 https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8
@@ -285,7 +285,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=44155&uid=16068&deviceMac=00:1A:79:ED
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-#EXTINF:-1 group-title="KOLKATA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png",Zee Bangla
+#EXTINt-1 group-title="KOLKATA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png",Zee Bangla
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla1/default/Zeebangla1.m3u8|Referer=https://d1g8wgjurz8via.cloudfront.net//&key=BDStreamHub
 
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.imgur.com/F0dmFko.jpg",Zee Bangla HD
@@ -322,10 +322,10 @@ https://colorsscreen.com/live.php?id=1669&extension=.m3u8|Referer=https://colors
 
 
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/N0sxVy1G/Sony-Aath-new.png",Sony Aath
-http://starshare.live:8080/live/3569087360/6542246996/4083.ts
+http://tv.cloudcdn.me:80/live.ts?channelId=44150&uid=15834&deviceMac=00:1A:79:40:26:09
 
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/bvV1BmyL/Enterr10-Bangla.jpg",Enter 10 Bangla
-http://starshare.live:8080/live/3569087360/6542246996/3801.ts
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
 
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/311da839-6234-4d72-b363-090c39bdbc67_180x180_RupshiBangla.jpg",Rupshi Bangla 
 https://cdn3.pishow.tv/live/281/master.m3u8
@@ -370,7 +370,7 @@ https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca141
 http://tv.cloudcdn.me:80/live.ts?channelId=49859&uid=15834&deviceMac=00:1A:79:40:26:09
 
 
-#EXTINF:-1 group-title="INDIAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg8H3YlBtOHF-1vxmzmn5r9hbOum61opRtbA&usqp=CAU",& Picture HD
+#EXTINF:-1 group-title="INDIAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg8H3YlBtOHF-1vxmzmn5r9hbOumBDStrqp=CAU",& Picture HD
 http://tv.cloudcdn.me:80/live.ts?channelId=139&uid=15834&deviceMac=00:1A:79:40:26:09
 
 
@@ -378,7 +378,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=139&uid=15834&deviceMac=00:1A:79:40:2
 https://neestreamtv.com/jcinema/stream.m3u8?id=3694429|Referer=https://neestreamtv.com//
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/h86708M.png",Colors Rishtey HD
-https://neestreamtv.com/jcinema/stream.m3u8?id=3694635|Referer=https://neestreamtv.com//&key=BDStreamHub
+https://neestreamtv.com/jcinema/stream.m3u8?id=3694635|Referer=https://neestreamtv.com//
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/h86708M.png",Colors Rishtey FHD
 
@@ -626,10 +626,10 @@ http://tv.cloudcdn.me:80/live.ts?channelId=244&uid=15834&deviceMac=00:1A:79:40:2
 
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Cartoon_Network_HD%2B_India_logo.png",CN HD+
-http://tv.cloudcdn.me:80/live.ts?channelId=245&uid=15834&deviceMac=00:1A:79:40:26:09
+https://colorsscreen.com/stream.php?id=1081&e=.m3u8|Referer=https://colorsscreen.com/stream.php?id=1081&e=.m3u8//
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/3EJN4q6.png",Nick 
-https://fifabangladesh.live/VHOD/go.php?id=Nick_voot_MOB
+https://colorsscreen.com/stream.php?id=1341&e=.m3u8|Referer=https://colorsscreen.com/stream.php?id=1341&e=.m3u8//
 
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/3EJN4q6.png",Nick Hindi 
