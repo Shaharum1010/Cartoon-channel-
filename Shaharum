@@ -11,16 +11,16 @@ http://xtv.ooo:8080/live/57530716/48076436/363001.ts
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/g002B7kq/01ef9db86b56a85ed9474bac2af17b55-1.png",Cartoon Network 
-https://fprk.short.gy/SmartFlixtvcni.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=244&uid=15834&deviceMac=00:1A:79:40:26:09
 
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/rmyFqStN/5b17a33c349cb9bf7dd7976f38a9b754.png",Disney Hd
 http://tv.cloudcdn.me:80/live.ts?channelId=251&uid=15834&deviceMac=00:1A:79:40:26:09
 
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/rmyFqStN/5b17a33c349cb9bf7dd7976f38a9b754.png",Disney
-http://mrking.site/STALKER/index.m3u8?id=1091
+http://tv.cloudcdn.me:80/live.ts?channelId=249&uid=15834&deviceMac=00:1A:79:40:26:09
 
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/MGZ5hPFy/7aa3ede3a9a05d6d9009b34ed0f914d0.png",Nick Bangla
-https://fprk.short.gy/SmartFlixtvbangla.m3u8
+https://fprk.short.gy/SmartFlixtvnickbangla.m3u8
 
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/MGZ5hPFy/7aa3ede3a9a05d6d9009b34ed0f914d0.png",Nick hindi 
 https://fifabangladesh.live/VHOD/go.php?id=Nick_voot_MOB
@@ -29,7 +29,7 @@ https://fifabangladesh.live/VHOD/go.php?id=Nick_voot_MOB
 https://fifabangladesh.live/VHOD/go.php?id=Nick_Junior_voot_MOB
 
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/K4SM5gVz/c26e3f010eb7043ee9e082be2509838a.png",Sonic Bangla 
-https://fprk.short.gy/SmartFlixtvsonicbangla.m3u8
+https://fprk.short.gy/SmartFlixtvsonicb.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/K4SM5gVz/c26e3f010eb7043ee9e082be2509838a.png",Sonic Hindi 
 http://tv.cloudcdn.me:80/live.ts?channelId=40476&uid=15834&deviceMac=00:1A:79:40:26:09
