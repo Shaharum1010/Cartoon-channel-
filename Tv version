@@ -309,19 +309,19 @@ http://45.127.56.3:6699/live/Corpus-POL1/SRV4/3/STAR-JALSHA-MOVIES-HD/live.mpd
 http://xsmarters.top:8080/live/0966717777/0966717777/245895.m3u8
 
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/0NVrthyH/Colors-Bangla-HD-prelaunch-2016.png",Colors Bangla HD
-https://neestreamtv.com/jcinema/stream.m3u8?id=3774158|Referer=https://neestreamtv.com//
+https://mhdlivetv.com/jiocinema/stream.m3u8?id=3774158|Referer=https://mhdlivetv.com//
 
 #EXTINF:-1 tvg-id="" tvg-name="COLORS BANGLA CINEMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Colors_Bangla_Cinema.png/revision/latest?cb=20200720045951" group-title="KOLKATA", COLORS BANGLA CINEMA
-https://colorsscreen.com/live.php?id=1657&extension=.m3u8|Referer=https://colorsscreen.com//&key=BDStreamHub
+https://colorsscreen.com/live.php?id=1657&extension=.m3u8|Referer=https://colorsscreen.com//
 
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/L4nx2ZGn/image.jpg",Sun Bangla 
-https://colorsscreen.com/live.php?id=1669&extension=.m3u8|Referer=https://colorsscreen.com//&key=BDStreamHub
+https://colorsscreen.com/live.php?id=1669&extension=.m3u8|Referer=https://colorsscreen.com//
 
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.imgur.com/iqLyqRz.jpg",Sun Bangla Cinema
 
 
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/N0sxVy1G/Sony-Aath-new.png",Sony Aath
-http://tv.cloudcdn.me:80/live.ts?channelId=44150&uid=15834&deviceMac=00:1A:79:40:26:09
+https://keralamaxtv.com/sliv/stream.php?id=195&e=.m3u8|Referer=https://keralamaxtv.com/sliv/stream.php?id=195&e=.m3u8
 
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/bvV1BmyL/Enterr10-Bangla.jpg",Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
@@ -664,7 +664,7 @@ https://mhdstream.com/sliv/stream.php?id=7541236&e=.m3u8|Referer=https://mhdstre
 https://mhdstream.com/sliv/stream.php?id=96585698&e=.m3u8|Referer=https://mhdstream.com/sliv/stream.php?id=96585698&e=.m3u8//
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png",Sony Sports Ten 3
-
+https://cc-bpss9asqfihqh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bpss9asqfihqh/scheduler/scheduleMaster/453.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=IN1300001NN
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen4_HD.png",Sony Sports Ten 4
 http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=16068&deviceMac=00:1A:79:ED:10:29
@@ -673,7 +673,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=16068&deviceMac=00:1A:79:E
 https://mhdstream.com/sliv/stream.php?id=985663256&e=.m3u8|Referer=https://mhdstream.com/sliv/stream.php?id=985663256&e=.m3u8//
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://w7.pngwing.com/pngs/214/781/png-transparent-star-sports-sony-ten-star-india-television-channel-others-miscellaneous-television-text.png",Star Sports 1 HD
-https://crichd.onlinetvbd.com/m3u8.php/star1in.m3u8
+https://www.mrking.site/api/api.php?id=star1in
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg/revision/latest?cb=20191214232359",Star Sports 2 HD
 http://typhoonott.com:8789/play/live.php?mac=00:1A:79:C8:89:6E&stream=431764&extension=m3u8
