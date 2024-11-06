@@ -618,8 +618,6 @@ https://dplus.gammacdn.workers.dev/videos/113.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png",Kids Cartoon 
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/fRfZL52V/images-5-3.jpg",Kidsland
-https://ythls.armelin.one/channel/UCZMKZS3L9GfhcFkMyBRoVFg.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png",Cartoon Network 
 http://tv.cloudcdn.me:80/live.ts?channelId=244&uid=15834&deviceMac=00:1A:79:40:26:09
@@ -629,7 +627,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=244&uid=15834&deviceMac=00:1A:79:40:2
 https://colorsscreen.com/stream.php?id=1081&e=.m3u8|Referer=https://colorsscreen.com/stream.php?id=1081&e=.m3u8//
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/3EJN4q6.png",Nick 
-https://colorsscreen.com/live.php?id=1341&extension=.m3u8|Referer=https://colorsscreen.com//
+https://fprk.short.gy/SmartFlixtvnickbangla.m3u8
 
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/3EJN4q6.png",Nick Hindi 
@@ -667,7 +665,7 @@ https://mhdstream.com/sliv/stream.php?id=7541236&e=.m3u8|Referer=https://mhdstre
 https://mhdstream.com/sliv/stream.php?id=96585698&e=.m3u8|Referer=https://mhdstream.com/sliv/stream.php?id=96585698&e=.m3u8//
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png",Sony Sports Ten 3
-https://mhdstream.com/sliv/stream.php?id=36523652&e=.m3u8|Referer=https://mhdstream.com/sliv/stream.php?id=36523652&e=.m3u8//
+
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen4_HD.png",Sony Sports Ten 4
 http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=16068&deviceMac=00:1A:79:ED:10:29
@@ -676,7 +674,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=16068&deviceMac=00:1A:79:E
 https://mhdstream.com/sliv/stream.php?id=985663256&e=.m3u8|Referer=https://mhdstream.com/sliv/stream.php?id=985663256&e=.m3u8//
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://w7.pngwing.com/pngs/214/781/png-transparent-star-sports-sony-ten-star-india-television-channel-others-miscellaneous-television-text.png",Star Sports 1 HD
-https://madplay.live/hls/crichd/index.php?id=star1in&e=.m3u8|=https://madplay.live/hls/crichd/index.php?id=star1in&e=.m3u8//
+https://crichd.onlinetvbd.com/m3u8.php/star1in.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg/revision/latest?cb=20191214232359",Star Sports 2 HD
 http://typhoonott.com:8789/play/live.php?mac=00:1A:79:C8:89:6E&stream=431764&extension=m3u8
