@@ -538,6 +538,56 @@ http://tv.cloudcdn.me:80/live.ts?channelId=12359&uid=15834&deviceMac=00:1A:79:40
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+#EXTINF:-1 group-title="Sony liv" tvg-logo="https://i.postimg.cc/xCV0N1yy/SONY-SET-HD.png",Sony HD (SET HD)
+https://keralamaxtv.com/sliv/stream.php?id=1100&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=SmartFlix
+
+#EXTINF:-1 group-title="Sony liv" tvg-logo="https://i.postimg.cc/HLrGvfHN/SONY-SAB-HD.png",Sony SAB HD
+https://keralamaxtv.com/sliv/stream.php?id=1201&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=SmartFlix
+
+#EXTINF:-1 group-title="Sony liv" tvg-logo="https://i.postimg.cc/ZqvcSG5j/SONY-MARATHI.png",Sony Marathi
+https://keralamaxtv.com/sliv/stream.php?id=1378&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=SmartFlix
+
+#EXTINF:-1 group-title="Sony liv" tvg-logo="https://i.postimg.cc/nrQ6V7MG/SONY-PAL.png",Sony Pal
+https://keralamaxtv.com/sliv/stream.php?id=1894&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=SmartFlix
+
+#EXTINF:-1 group-title="Sony liv" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png",Sony Aath
+https://keralamaxtv.com/sliv/stream.php?id=195&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=SmartFlix
+
+#EXTINF:-1 group-title="Sony liv" tvg-logo="https://i.postimg.cc/qRxtS9Gy/SONY-YAY.png",Sony Yay
+https://keralamaxtv.com/sliv/stream.php?id=168569&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=SmartFlix
+
+#EXTINF:-1 group-title="Sony liv" tvg-logo="https://i.postimg.cc/XYF71G8F/SONY-MAX-HD.png",Sony MAX HD
+https://keralamaxtv.com/sliv/stream.php?id=878545&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=SmartFlix
+
+#EXTINF:-1 group-title="Sony liv" tvg-logo="https://i.postimg.cc/XYF71G8F/SONY-MAX-HD.png",Sony MAX
+https://keralamaxtv.com/sliv/stream.php?id=96&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=SmartFlix
+
+#EXTINF:-1 group-title="Sony liv" tvg-logo="https://i.postimg.cc/jq6Qh61g/SONY-WAH.png",Sony WAH
+https://keralamaxtv.com/sliv/stream.php?id=75&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=SmartFlix
+
+#EXTINF:-1 group-title="Sony liv" tvg-logo="https://i.postimg.cc/ZnBh92s3/SONY-MAX-2.png",Sony MAX 2
+https://keralamaxtv.com/sliv/stream.php?id=123&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=SmartFlix
+
+#EXTINF:-1 group-title="Sony liv" tvg-logo="https://i.postimg.cc/hGYnSKpg/SONY-PIX-HD.png",Sony PIX HD
+https://keralamaxtv.com/sliv/stream.php?id=785&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=SmartFlix
+
+#EXTINF:-1 group-title="Sony liv" tvg-logo="https://i.postimg.cc/t4g4cy4Z/SONY-BBC-EARTH.png",Sony BBC Earth HD
+https://keralamaxtv.com/sliv/stream.php?id=852&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=SmartFlix
+
+#EXTINF:-1 group-title="Sony liv" tvg-logo="https://i.postimg.cc/d00sTpK0/SONY-SPORTS-TEN-1-HD.png",Sony Sports Ten 1 HD
+https://mhdstream.com/sliv/stream.php?id=7541236|Referer=https://mhdstream.com/sliv/&key=SmartFlix
+
+#EXTINF:-1 group-title="Sony liv" tvg-logo="https://i.postimg.cc/wvfsmLrC/SONY-SPORTS-TEN-2-HD.png",Sony Sports Ten 2 HD
+https://mhdstream.com/sliv/stream.php?id=96585698|Referer=https://mhdstream.com/sliv/&key=SmartFlix
+
+#EXTINF:-1 group-title="Sony liv" tvg-logo="https://i.postimg.cc/2SGvDswj/SONY-SPORTS-TEN-3-HD.png",Sony Sports Ten 3 HD
+https://mhdstream.com/sliv/stream.php?id=36523652|Referer=https://mhdstream.com/sliv/&key=SmartFlix
+
+#EXTINF:-1 group-title="Sony liv" tvg-logo="https://i.postimg.cc/xCzcchKz/SONY-SPORTS-TEN-5-HD.png",Sony Sports Ten 5 HD
+https://mhdstream.com/sliv/stream.php?id=985663256|Referer=https://mhdstream.com/sliv/&key=SmartFlix
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png",Sony Pix
 https://keralamaxtv.com/sliv/stream.php?id=785&e=.m3u8|Referer=https://keralamaxtv.com//&key=BDStreamHub
