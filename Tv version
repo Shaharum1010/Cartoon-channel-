@@ -5,12 +5,11 @@
 https://t.me/SmartFlix_Tv
 
 
-#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6VBmmmDhBeu7Hw3sIwTmEsvCdPiOr5DoXraadQb7CymqI325_9rB6Iow&s=10",BAN vs SA 1ST TEST
-https://madplay.live/hls/crichd/index.php?id=supercricket&e=.m3u8|Referer=https://madplay.live//
 
 
-#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4vqZb2FKdhbSks72Feels6bYsBuR_5-iCcA&usqp=CAU",Emerging Teams Asia Cup 2024 (18-27
-https://ams1.styxsports.com:5443/LiveApp/streams/2Oj0R1ALVUcjgJxt4332103373172931.m3u8
+
+
+
 
 
 
@@ -648,8 +647,8 @@ https://cdn3.pishow.tv/live/283/master.m3u8
 https://colorsscreen.com/live.php?id=1667&extension=.m3u8|Referer=https://colorsscreen.com//&key=BDStreamHub
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20YAY.png",Sony Yay
-https://api.iptvbd.xyz/api/sony_yay.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20YAY.png",Sony Yay Bangla 
+https://fprk.short.gy/SmartFlixtv_api_sonyyay.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20YAY.png",Sony Yay Hindi
 https://keralamaxtv.com/sliv/stream.php?id=168569&e=.m3u8|Referer=https://keralamaxtv.com//&key=BDStreamHub
@@ -675,16 +674,16 @@ http://tv.cloudcdn.me:80/live.ts?channelId=244&uid=15834&deviceMac=00:1A:79:40:2
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Cartoon_Network_HD%2B_India_logo.png",CN HD+
 https://colorsscreen.com/stream.php?id=1081&e=.m3u8|Referer=https://colorsscreen.com/stream.php?id=1081&e=.m3u8//
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/3EJN4q6.png",Nick 
-https://fprk.short.gy/SmartFlixtvnickbangla.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/3EJN4q6.png",Nick Bangla 
+https://fprk.short.gy/SmartFlixtv_api_nickbangla.m3u8
 
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/3EJN4q6.png",Nick Hindi 
 https://fifabangladesh.live/VHOD/go.php?id=Nick_voot_MOB
 
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png",Sonic
-https://colorsscreen.com/live.php?id=1345&extension=.m3u8|Referer=https://colorsscreen.com//&key=BDStreamHub
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png",Sonic Bangla 
+https://fprk.short.gy/Smartflixtv_api_sonicbangla.m3u8
 
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png",Sonic Hindi
