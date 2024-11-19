@@ -1,51 +1,39 @@
 #EXTINF:-1 group-title="Join Telegram" tvg-logo="https://i.postimg.cc/pVpkVFYh/IMG-20240904-003008-457.jpg",SmartFlix_Tv
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
+https://keralamaxtv.com/sliv/stream.php?id=1201&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=SmartFlix_tv
 
-#EXTINF:-1 group-title="SONYLIV" tvg-logo="https://i.postimg.cc/N0sxVy1G/Sony-Aath-new.png",Sony Aath
-http://tv.cloudcdn.me:80/live.ts?channelId=44150&uid=16068&deviceMac=00:1A:79:ED:10:29
 
-#EXTINF:-1 group-title="SONYLIV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ3-64Mdiyfvjmeleb9TBwTItkVUZB2uJ2Xg&s",Sony Tv
-http://tv.cloudcdn.me:80/live.ts?channelId=12356&uid=6154&deviceMac=00:1A:79:51:31:21
+#EXTINF:-1 tvg-id="sony-hd" tvg-name="Sony HD (SET HD)" tvg-country="IN" tvg-logo="https://i.postimg.cc/xCV0N1yy/SONY-SET-HD.png" tvg-chno="sony-hd" group-title="SonyLIV by CRICFy",Sony HD (SET HD)
+https://keralamaxtv.com/sliv/stream.php?id=1100&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=SmartFlix_tv
+#EXTINF:-1 tvg-id="sony-sab-hd" tvg-name="Sony SAB HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/HLrGvfHN/SONY-SAB-HD.png" tvg-chno="sony-sab-hd" group-title="SonyLIV by CRICFy",Sony SAB HD
+https://keralamaxtv.com/sliv/stream.php?id=1201&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=SmartFlix_tv
+#EXTINF:-1 tvg-id="sony-marathi" tvg-name="Sony Marathi" tvg-country="IN" tvg-logo="https://i.postimg.cc/ZqvcSG5j/SONY-MARATHI.png" tvg-chno="sony-marathi" group-title="SonyLIV by CRICFy",Sony Marathi
+https://keralamaxtv.com/sliv/stream.php?id=1378&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=SmartFlix_tv
+#EXTINF:-1 tvg-id="sony-pal" tvg-name="Sony Pal" tvg-country="IN" tvg-logo="https://i.postimg.cc/nrQ6V7MG/SONY-PAL.png" tvg-chno="sony-pal" group-title="SonyLIV by CRICFy",Sony Pal
+https://keralamaxtv.com/sliv/stream.php?id=1894&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=SmartFlix_tv
+#EXTINF:-1 tvg-id="sony-aath" tvg-name="Sony Aath" tvg-country="IN" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" tvg-chno="sony-aath" group-title="SonyLIV by CRICFy",Sony Aath
+https://keralamaxtv.com/sliv/stream.php?id=195&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=SmartFlix_tv
+#EXTINF:-1 tvg-id="sony-yay" tvg-name="Sony Yay" tvg-country="IN" tvg-logo="https://i.postimg.cc/qRxtS9Gy/SONY-YAY.png" tvg-chno="sony-yay" group-title="SonyLIV by CRICFy",Sony Yay
+https://keralamaxtv.com/sliv/stream.php?id=168569&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=SmartFlix_tv
+#EXTINF:-1 tvg-id="sony-max-hd" tvg-name="Sony MAX HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/XYF71G8F/SONY-MAX-HD.png" tvg-chno="sony-max-hd" group-title="SonyLIV by CRICFy",Sony MAX HD
+https://keralamaxtv.com/sliv/stream.php?id=878545&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=SmartFlix_tv
+#EXTINF:-1 tvg-id="sony-max" tvg-name="Sony MAX" tvg-country="IN" tvg-logo="https://i.postimg.cc/X7MmrgCs/SONY-MAX.png" tvg-chno="sony-max" group-title="SonyLIV by CRICFy",Sony MAX
+https://keralamaxtv.com/sliv/stream.php?id=96&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=SmartFlix_tv
+#EXTINF:-1 tvg-id="sony-wah" tvg-name="Sony WAH" tvg-country="IN" tvg-logo="https://i.postimg.cc/jq6Qh61g/SONY-WAH.png" tvg-chno="sony-wah" group-title="SonyLIV by CRICFy",Sony WAH
+https://keralamaxtv.com/sliv/stream.php?id=75&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=SmartFlix_tv
+#EXTINF:-1 tvg-id="sony-max-2" tvg-name="Sony MAX 2" tvg-country="IN" tvg-logo="https://i.postimg.cc/ZnBh92s3/SONY-MAX-2.png" tvg-chno="sony-max-2" group-title="SonyLIV by CRICFy",Sony MAX 2
+https://keralamaxtv.com/sliv/stream.php?id=123&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=SmartFlix_tv
+#EXTINF:-1 tvg-id="sony-pix-hd" tvg-name="Sony PIX HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/hGYnSKpg/SONY-PIX-HD.png" tvg-chno="sony-pix-hd" group-title="SonyLIV by CRICFy",Sony PIX HD
+https://keralamaxtv.com/sliv/stream.php?id=785&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=thenayeemparvez
+#EXTINF:-1 tvg-id="sony-bbc-earth-hd" tvg-name="Sony BBC Earth HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/t4g4cy4Z/SONY-BBC-EARTH.png" tvg-chno="sony-bbc-earth-hd" group-title="SonyLIV by CRICFy",Sony BBC Earth HD
+https://keralamaxtv.com/sliv/stream.php?id=852&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=SmartFlix_tv
+#EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-name="Sony Sports Ten 1 HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/d00sTpK0/SONY-SPORTS-TEN-1-HD.png" tvg-chno="sony-ten-1-hd" group-title="SonyLIV by CRICFy",Sony Sports Ten 1 HD
+https://mhdstream.com/sliv/stream.php?id=7541236|Referer=https://mhdstream.com/sliv/&key=SmartFlix_tv
+#EXTINF:-1 tvg-id="sony-ten-2-hd" tvg-name="Sony Sports Ten 2 HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/wvfsmLrC/SONY-SPORTS-TEN-2-HD.png" tvg-chno="sony-ten-2-hd" group-title="SonyLIV by CRICFy",Sony Sports Ten 2 HD
+https://mhdstream.com/sliv/stream.php?id=96585698|Referer=https://mhdstream.com/sliv/&key=SmartFlix_tv
+#EXTINF:-1 tvg-id="sony-ten-3-hd" tvg-name="Sony Sports Ten 3 HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/2SGvDswj/SONY-SPORTS-TEN-3-HD.png" tvg-chno="sony-ten-3-hd" group-title="SonyLIV by CRICFy",Sony Sports Ten 3 HD
+https://mhdstream.com/sliv/stream.php?id=36523652|Referer=https://mhdstream.com/sliv/&key=SmartFlix_tv
+#EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/xCzcchKz/SONY-SPORTS-TEN-5-HD.png" tvg-chno="sony-ten-5-hd" group-title="SonyLIV by CRICFy",Sony Sports Ten 5 HD
+https://mhdstream.com/sliv/stream.php?id=985663256|Referer=https://mhdstream.com/sliv/&key=SmartFlix_tv
+#EXTINF:-1 tvg-id="sony-kal" tvg-name="Sony KAL" tvg-country="IN" tvg-logo="https://i.postimg.cc/ZqnmcXdx/Sony-KAL.png" tvg-chno="sony-kal" group-title="SonyLIV by CRICFy",Sony KAL
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SONY MAX" tvg-logo="https://i.ibb.co/q9Nwjh0/Picsart-23-06-07-12-58-14-641.png" group-title="SONYLIV", SONY Max Hd
-https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/toffee-live/index.m3u8?id=set_max_hd
-#EXTINF:-1 tvg-id="" tvg-name="SONY MAX" tvg-logo="https://i.ibb.co/q9Nwjh0/Picsart-23-06-07-12-58-14-641.png" group-title="SONYLIV", SONY MAX 
-http://tv.cloudcdn.me:80/live.ts?channelId=186&uid=16068&deviceMac=00:1A:79:ED:10:29
-
-#EXTINF:-1 group-title="SONYLIV" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/f/f4/Sony_Max_2_new_logo.png",Sony Max 2
-https://test-tan-iota-90.vercel.app/live/bdix/app/SonyMax2.m3u8
-
-#EXTINF:-1 group-title="SONYLIV" tvg-logo="https://i.imgur.com/qanBTkv.png",Sony Sab HD
-http://tv.cloudcdn.me:80/live.ts?channelId=192&uid=16068&deviceMac=00:1A:79:ED:10:29
-
-#EXTINF:-1 group-title="SONYLIV" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20PAL.png",Sony PAL
-http://tv.cloudcdn.me:80/live.ts?channelId=188&uid=16068&deviceMac=00:1A:79:ED:10:29
-
-#EXTINF:-1 group-title="SONYLIV" tvg-logo="https://i.imgur.com/ADXlju2.png",Sony WAH
-http://tv.cloudcdn.me:80/live.ts?channelId=187&uid=16068&deviceMac=00:1A:79:ED:10:29
-
-#EXTINF:-1 group-title="SONYLIV" tvg-logo="https://nowmetv.xyz/wp-content/uploads/2021/05/marathis.png",Sony Marathi
-http://ktv.im:8080/live/1234512345/1234512345/84279.ts
-
-#EXTINF:-1 group-title="SONYLIV" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png",Sony Pix
-http://tv.cloudcdn.me:80/live.ts?channelId=189&uid=7084&deviceMac=00:1A:79:99:1F:A8
-
-#EXTINF:-1 group-title="SONYLIV" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20YAY.png",Sony Yay
-http://xsmarters.top:8080/live/0966717777/0966717777/26187.m3u8
-
-#EXTINF:-1 group-title="SONYLIV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png",Sony Sports Ten 1
-https://cricsters.fun/s/stream.php?id=sony-ten-1-hd&e=.m3u8
-
-#EXTINF:-1 group-title="SONYLIV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png",Sony Sports Ten 2
-https://cricsters.fun/s/stream.php?id=sony-ten-2-hd&e=.m3u8
-
-#EXTINF:-1 group-title="SONYLIV" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png",Sony Ten 3
-https://cricsters.fun/s/stream.php?id=sony-ten-3-hd&e=.m3u8
-
-#EXTINF:-1 group-title="SONYLIV" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen4_HD.png",Sony Sports Ten 4
-https://cricsters.fun/s/stream.php?id=sony-ten-4-hd&e=.m3u8
-
-#EXTINF:-1 group-title="SONYLIV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Sony_Sports_Ten_5.png/revision/latest/scale-to-width-down/460?cb=20221025091902",Sony Sports Ten 5
-https://cricsters.fun/s/stream.php?id=sony-ten-5-hd&e=.m3u8
-#EXTINF:-1 group-title="SONYLIV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ3-64Mdiyfvjmeleb9TBwTItkVUZB2uJ2Xg&s",Sony Tv uk
-http://tv.cloudcdn.me:80/live.ts?channelId=194&uid=6154&deviceMac=00:1A:79:51:31:21
