@@ -17,7 +17,7 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_sd/playlist.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=251&uid=15834&deviceMac=00:1A:79:40:26:09
 
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/rmyFqStN/5b17a33c349cb9bf7dd7976f38a9b754.png",Disney
-http://gcp-dash.ngslbs.com/TVD064/index.mpd
+http://extraott.com/live/3586573392/7591141273/187052.m3u8
 
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/MGZ5hPFy/7aa3ede3a9a05d6d9009b34ed0f914d0.png",Nick Bangla
 https://colorsscreen.com/live.php?id=1341&extension=.m3u8|Referer=https://colorsscreen.com//&key=Smartflix_tv
@@ -62,7 +62,7 @@ https://fifabangladesh.live/VHOD/go.php?id=Nick_HD_Plus_voot_MOB
 http://opplex.tv:8080/live/488197/435900/311373.ts
 
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/wTvVkqDw/eaa953b7d299307a068cedc0a2e878d1.png",Shiva
-http://tv.cloudcdn.me:80/live.ts?channelId=91169&uid=7084&deviceMac=00:1A:79:99:1F:A8
+http://xtv.ooo:8080/live/98267/02727/342074.ts
 
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/wMHSDkdM/3bcda4f46f5c316e029333e212191dfc.png",Disney junior
 http://tv.cloudcdn.me:80/live.ts?channelId=251&uid=15834&deviceMac=00:1A:79:40:26:09
@@ -71,4 +71,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=251&uid=15834&deviceMac=00:1A:79:40:2
 http://opplex.tv:8080/live/488197/435900/311774.ts
 
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/ZYcQ1pSP/970f515d472d24221ba4b4957f86bc86.png",Tom jarry
-http://gcp-dash.ngslbs.com/TVD037/index.mpd
+http://gcf.nrslist.com/TVD037/index.mpd
+#EXTINF:-1 group-title=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVOveA0Gc0LvmHkyGh3kOcvd-3AH8l1uixkQ&s.png",Ben Ten
+http://starshare.live:8080/live/3569087360/6542246996/147743.ts
+#EXTINF:-1 group-title=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScjmJn7hMm2pK8MstM1AvgkEyCVMH5FsXNj97eKYfoEqYluXK4WFcaQmI&s=10",Doremon
+http://starshare.live:8080/live/3569087360/6542246996/147746.ts
