@@ -4,17 +4,17 @@
 #EXTINF:-1 tvg-id="" group-title="SmartFlix_Tv" tvg-logo="https://i.postimg.cc/cHbJvhtS/IMG-20240926-111255-193.jpg" ,SmartFlix_Tv
 https://t.me/SmartFlix_Tv
 
-#EXTINF:-1 group-title="LIVE|Cricket Events" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDuG70zI64K-sAZvFzb3fCbzendZGkOXQudw&usqp=CAU",LIVE 1
-https://tapmadtv.live/master.m3u8/?key=WASITV&c=star1in|Referer=https://tapmadtv.live/play.php?c=star1in&key=Smartflix_Tv
+#EXTINF:-1 group-title="LIVE| Cricket Events" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDuG70zI64K-sAZvFzb3fCbzendZGkOXQudw&usqp=CAU",LIVE 1
+https://Smarflixtv@nowsports.co.in/cric/stream.m3u8?id=2d1d9e504afdd24a2936ad59fd7934d6|Referer=https://nowsports.co.in/cric/?key=SmartFlix_Tv
 
-#EXTINF:-1 group-title="LIVE|Cricket Events" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPShH-i1fzH_GqWTCR8BQCl4Tbs1Eyf3gO_g&usqp=CAU",LIVE 2
+#EXTINF:-1 group-title="LIVE| Cricket Events" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPShH-i1fzH_GqWTCR8BQCl4Tbs1Eyf3gO_g&usqp=CAU",LIVE 2
 https://tapmadtv.live/master.m3u8/?key=WASITV&c=willowusa|Referer=https://tapmadtv.live/play.php?c=willowusa&key=Smartflix_tv
 
-#EXTINF:-1 group-title="LIVE|Cricket Events" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZaq3UmLG8GNkLTKuTYTDXOyamAZ73tUv97Q&usqp=CAU",LIVE 3
+#EXTINF:-1 group-title="LIVE| Cricket Events" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZaq3UmLG8GNkLTKuTYTDXOyamAZ73tUv97Q&usqp=CAU",LIVE 3
 https://tapmadtv.live/master.m3u8/?key=WASITV&c=skyscric|Referer=https://tapmadtv.live/play.php?c=skyscric&key=Smartflix_tv
 
-
-
+#EXTINF:-1 group-title="LIVE| Cricket Events"tvg-logo="https://m.media-amazon.com/images/I/71t1XaIXBrL.png",LIVE 4
+https://Smartflixtv@nowsports.co.in/cric/stream.m3u8?id=07fc63aad877b90f0f84148038f036cc|Referer=https://nowsports.co.in/cric/?key=Smartflix_tv
 
 
 
@@ -694,7 +694,7 @@ http://starshare.live:8080/live/3569087360/6542246996/66162.ts
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png",Sony Sports Ten 1
-https://mhdstream.com/sliv/stream.php?id=7541236&e=.m3u8|Referer=https://mhdstream.com//
+https://mhdstream.com/sliv/stream.php?id=7541236&e=.m3u8|Referer=https://mhdstream.com//&key=SmartFlix_Tv
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png",Sony Sports Ten 2
 https://mhdstream.com/sliv/stream.php?id=96585698&e=.m3u8|Referer=https://mhdstream.com/sliv/stream.php?id=96585698&e=.m3u8//
@@ -709,30 +709,26 @@ http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=16068&deviceMac=00:1A:79:E
 https://mhdstream.com/sliv/stream.php?id=985663256&e=.m3u8|Referer=https://mhdstream.com/sliv/stream.php?id=985663256&e=.m3u8//
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://w7.pngwing.com/pngs/214/781/png-transparent-star-sports-sony-ten-star-india-television-channel-others-miscellaneous-television-text.png",Star Sports 1 HD
-https://www.mrking.site/api/api.php?id=star1in
+https://Smarflixtv@nowsports.co.in/cric/stream.m3u8?id=2d1d9e504afdd24a2936ad59fd7934d6|Referer=https://nowsports.co.in/cric/?key=SmartFlix_Tv
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg/revision/latest?cb=20191214232359",Star Sports 2 HD
-http://typhoonott.com:8789/play/live.php?mac=00:1A:79:C8:89:6E&stream=431764&extension=m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=298&uid=7084&deviceMac=00:1A:79:99:1F:A8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://w7.pngwing.com/pngs/734/315/png-transparent-cricket-world-cup-star-sports-3-streaming-media-ptv-sports-live-stream-television-text-sport.png",Star Sports 3
-http://tv.cloudcdn.me:80/live.ts?channelId=39098&uid=12481&deviceMac=00:1A:79:6C:28:A1
+http://extraott.com/live/6945574629/7169628753/400159568.ts
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7226/597226-h",Star Sports Select 1
-http://176.119.29.52/live.ts?channelId=299&uid=16068&deviceMac=00:1A:79:ED:10:29
+https://cflare.mooo.com/test/starspsl1.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD_msuvfO37SSPzeEUE1lI0XgAXxEcmQHepg&usqp=CAU",Star Sports Select 2
 http://176.119.29.52/live.ts?channelId=300&uid=16068&deviceMac=00:1A:79:ED:10:29
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8jdBDStreamHuA7E4tv9GTX-WOtGfEiUUg&s",WWE
-https://xyzdddd.mizhls.ru/lb/premium376/index.m3u8|Referer=https://quest4play.xyz///&key=BDStreamHub
-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.discoveryplus.com&client=VFE&size=64&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",TNT Sports 1
-https://madplay.live/hls/crichd/index.php?id=bbtsp1&e=.m3u8|Referer=https://madplay.live//&key=BDStreamHub
-https://webuit.mizhls.ru/lb/premium31/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=BDStreamHub
+https://Smartflixtv@nowsports.co.in/cric/stream.m3u8?id=0b78e521750bdaacde4800fe60804b52|Referer=https://nowsports.co.in/cric/?key=SmartFlix_Tv
+
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://tv.krirangon.com/upload/Channel%20Logo/TNT%20SPORTS%202.jpg",TNT Sports 2
-https://madplay.live/hls/crichd/index.php?id=bbtsp2&e=.m3u8|Referer=https://madplay.live//&key=BDStreamHub
-https://webuit.mizhls.ru/lb/premium32/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=BDStreamHub
+https://SmartFlixtv@nowsports.co.in/cric/stream.m3u8?id=d662f58b27c0bda8424beb6b6bda1fa9|Referer=https://nowsports.co.in/cric/?key=SmartFlix_Tv
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZfjVZSq-hhIydqH-JlvQG4VLwrSG3K64gTg&s",TNT Sports 3
 https://madplay.live/hls/crichd/index.php?id=bbtsp3&e=.m3u8|Referer=https://madplay.live//&key=BDStreamHub
