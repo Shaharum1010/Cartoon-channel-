@@ -4,14 +4,14 @@
 #EXTINF:-1 tvg-id="" group-title="SmartFlix_Tv" tvg-logo="https://i.postimg.cc/cHbJvhtS/IMG-20240926-111255-193.jpg" ,SmartFlix_Tv
 https://t.me/SmartFlix_Tv
 
-#EXTINF:-1 group-title="LIVE  EVENT" tvg-logo="https://i.postimg.cc/fbHXzpLy/IMG-20241119-235713-512.jpg",Argentina VS Peru 
-https://BDStreamHub@colorsportscreen.com/fuck-your-mother-ass/stream.m3u8?id=746|Referer=https://colorsportscreen.com//&key=SmartFlixtv
+#EXTINF:-1 group-title="LIVE|Cricket Events" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDuG70zI64K-sAZvFzb3fCbzendZGkOXQudw&usqp=CAU",LIVE 1
+https://tapmadtv.live/master.m3u8/?key=WASITV&c=star1in|Referer=https://tapmadtv.live/play.php?c=star1in&key=Smartflix_Tv
 
-#EXTINF:-1 group-title="LIVE  EVENT" tvg-logo="https://i.postimg.cc/fbHXzpLy/IMG-20241119-235713-512.jpg",Argentina VS Peru 
-https://Top-Sports@colorsportscreen.com/fuck-your-mother-ass/stream.m3u8?id=614&e=.m3u8|Referer=https://colorsportscreen.com/fuck-your-mother-ass/?key=Top-Sports
+#EXTINF:-1 group-title="LIVE|Cricket Events" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPShH-i1fzH_GqWTCR8BQCl4Tbs1Eyf3gO_g&usqp=CAU",LIVE 2
+https://tapmadtv.live/master.m3u8/?key=WASITV&c=willowusa|Referer=https://tapmadtv.live/play.php?c=willowusa&key=Smartflix_tv
 
-#EXTINF:-1 group-title="LIVE  EVENT" tvg-logo="https://i.postimg.cc/FRdf9K8C/IMG-20241119-235713-696.jpg",Brazil VS Uruguay 
-https://oklive6-5.vkuser.net/hls/7400392690377.m3u8/sig/jmRDFzoRelU/expires/1732150106551/srcIp/103.198.133.116/urls/185.226.53.70/clientType/0/srcAg/CHROME_ANDROID/mid/8467989864137/7400392690377_high/index.m3u8|Referer=https://ok.ru/videoembed/8467989864137?autoplay=1//&key=BDStreamHub
+#EXTINF:-1 group-title="LIVE|Cricket Events" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZaq3UmLG8GNkLTKuTYTDXOyamAZ73tUv97Q&usqp=CAU",LIVE 3
+https://tapmadtv.live/master.m3u8/?key=WASITV&c=skyscric|Referer=https://tapmadtv.live/play.php?c=skyscric&key=Smartflix_tv
 
 
 
