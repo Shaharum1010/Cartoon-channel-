@@ -17,7 +17,7 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_sd/playlist.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=251&uid=15834&deviceMac=00:1A:79:40:26:09
 
 #EXTINF:-1 group-title="Kids"tvg-logo="https://i.postimg.cc/rmyFqStN/5b17a33c349cb9bf7dd7976f38a9b754.png",Disney
-http://extraott.com/live/3586573392/7591141273/187052.m3u8
+http://starshare.live:8080/live/3569087360/6542246996/271.m3u8
 
 #EXTINF:-1 group-title="Kids"tvg-logo="https://i.postimg.cc/MGZ5hPFy/7aa3ede3a9a05d6d9009b34ed0f914d0.png",Nick Bangla
 https://playyonogames.in/live.php?id=1341&extension=.m3u8|Referer=https://playyonogames.in//&key=Smartflix_tv
@@ -50,7 +50,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=91169&uid=7084&deviceMac=00:1A:79:99:
 https://dplus.gammacdn.workers.dev/videos/113.m3u8
 
 #EXTINF:-1 group-title="Kids"tvg-logo="https://i.postimg.cc/NfYd6jkJ/8aff3a1f9fb17dc659828c0123c147f5.png",Wow kidz Acton
-
+http://opplex.tv:8080/live/tasin7879/tasin7880/315401.ts
 
 #EXTINF:-1 group-title="Kids"tvg-logo="https://i.postimg.cc/59m8w2Gc/04e7f0f5247e839b8e1b711aa2ab614a.png",boomerang
 http://tv.cloudcdn.me:80/live.ts?channelId=257&uid=7045&deviceMac=00:1A:79:0A:3B:36
@@ -59,18 +59,18 @@ http://tv.cloudcdn.me:80/live.ts?channelId=257&uid=7045&deviceMac=00:1A:79:0A:3B
 https://fifabangladesh.live/VHOD/go.php?id=Nick_HD_Plus_voot_MOB
 
 #EXTINF:-1 group-title="Kids"tvg-logo="https://i.postimg.cc/ZKcGW54j/539795b350817bd6711f8ed936be0c59.png",Motu Patlu 
-
+http://opplex.tv:8080/live/tasin7879/tasin7880/307079.ts
 
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/wTvVkqDw/eaa953b7d299307a068cedc0a2e878d1.png",Shiva
-http://xtv.ooo:8080/live/98267/02727/342074.ts
+http://opplex.tv:8080/live/tasin7879/tasin7880/342074.ts
 
 #EXTINF:-1 group-title="Kids"tvg-logo="https://i.postimg.cc/wMHSDkdM/3bcda4f46f5c316e029333e212191dfc.png",Disney junior
 http://atg100.xyz:80/live/UL33K17/SYC4T9D/175130.ts
 
 #EXTINF:-1 group-title="Kids"tvg-logo="https://i.postimg.cc/ZYcQ1pSP/970f515d472d24221ba4b4957f86bc86.png",Chaha bhatija
-http://opplex.tv:8080/live/488197/435900/311774.ts
+http://opplex.tv:8080/live/tasin7879/tasin7880/311774.ts
 
-#EXTINF:-1 group-title="Kids"tvg-logo="https://i.postimg.cc/ZYcQ1pSP/970f515d472d24221ba4b4957f86bc86.png",Tom jarrts
+#EXTINF:-1 group-title="Kids"tvg-logo="https://i.postimg.cc/ZYcQ1pSP/970f515d472d24221ba4b4957f86bc86.png",kum fu fanda
 http://starshare.live:8080/live/3569087360/6542246996/147738.ts
 
 #EXTINF:-1 group-title="Kids"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVOveA0Gc0LvmHkyGh3kOcvd-3AH8l1uixkQ&s.png",Ben Ten
