@@ -4,23 +4,35 @@
 #EXTINF:-1 tvg-id="" group-title="SmartFlix_Tv" tvg-logo="https://i.postimg.cc/cHbJvhtS/IMG-20240926-111255-193.jpg" ,SmartFlix_Tv
 https://t.me/SmartFlix_Tv
 
+
+
+
+
+
+
 #EXTINF:-1 group-title="🇱 🇮 🇻 🇪 🔵|Cricket Event🏏" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDuG70zI64K-sAZvFzb3fCbzendZGkOXQudw&usqp=CAU",🇱 🇮 🇻 🇪 🔴 1
-https://Smarflixtv@nowsports.co.in/cric/stream.m3u8?id=2d1d9e504afdd24a2936ad59fd7934d6|Referer=https://nowsports.co.in/cric/?key=SmartFlix_Tv
+https://tapmadtv.live/master.m3u8/?key=WASITV&c=star1in|Referer=https://tapmadtv.live/play.php?c=star1in&key=Smartflixtv
 
-#EXTINF:-1 group-title="LIVE 🔴| Cricket Events" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPShH-i1fzH_GqWTCR8BQCl4Tbs1Eyf3gO_g&usqp=CAU",LIVE 2
-https://tapmadtv.live/master.m3u8/?key=WASITV&c=willowusa|Referer=https://tapmadtv.live/play.php?c=willowusa&key=Smartflix_tv
+#EXTINF:-1 group-title="🇱 🇮 🇻 🇪 🔵|Cricket Event🏏" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPShH-i1fzH_GqWTCR8BQCl4Tbs1Eyf3gO_g&usqp=CAU",🇱 🇮 🇻 🇪 🔴 2
+https://tapmadtv.live/master.m3u8/?key=WASITV&c=skyscric|Referer=https://tapmadtv.live/play.php?c=skyscric
 
-#EXTINF:-1 group-title=LIVE 🔴| Cricket Events" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZaq3UmLG8GNkLTKuTYTDXOyamAZ73tUv97Q&usqp=CAU",LIVE 3
-https://tapmadtv.live/master.m3u8/?key=WASITV&c=skyscric|Referer=https://tapmadtv.live/play.php?c=skyscric&key=Smartflix_tv
+#EXTINF:-1 group-title=🇱 🇮 🇻 🇪 🔵|Cricket Event🏏" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZaq3UmLG8GNkLTKuTYTDXOyamAZ73tUv97Q&usqp=CAU",🇱 🇮 🇻 🇪 🔴 3
+https://tapmadtv.live/master.m3u8/?key=WASITV&c=willowusa|Referer=https://tapmadtv.live/play.php?c=willowusa&key=Smartflixtv
 
-#EXTINF:-1 group-title="LIVE 🔴| Cricket Events"tvg-logo="https://m.media-amazon.com/images/I/71t1XaIXBrL.png",LIVE 4
-https://Smartflixtv@nowsports.co.in/cric/stream.m3u8?id=07fc63aad877b90f0f84148038f036cc|Referer=https://nowsports.co.in/cric/?key=Smartflix_tv
+#EXTINF:-1 group-title="🇱 🇮 🇻 🇪 🔵|Cricket Event🏏"tvg-logo="https://m.media-amazon.com/images/I/71t1XaIXBrL.png",🇱 🇮 🇻 🇪 🔴 4
+http://starshare.live:8080/live/3569087360/6542246996/2496.ts
 
+#EXTINF:-1 group-title="🇱 🇮 🇻 🇪 🔵|Cricket Event🏏"tvg-logo="https://m.media-amazon.com/images/I/71t1XaIXBrL.png",🇱 🇮 🇻 🇪 🔴 5
+https://tapmadtv.live/master.m3u8/?key=WASITV&c=willowextra|Referer=https://tapmadtv.live/play.php?c=willowextra
 
+#EXTINF:-1 group-title="🇱 🇮 🇻 🇪 🔵|Cricket Event🏏"tvg-logo="https://m.media-amazon.com/images/I/71t1XaIXBrL.png",🇱 🇮 🇻 🇪 🔴 6
+https://tapmadtv.live/master.m3u8/?key=WASITV&c=ptvpk|Referer=https://tapmadtv.live/play.php?c=ptvpk&key=Smartflixtv
 
+#EXTINF:-1 group-title="🇱 🇮 🇻 🇪 🔵|Cricket Event🏏"tvg-logo="https://m.media-amazon.com/images/I/71t1XaIXBrL.png",🇱 🇮 🇻 🇪 🔴 7
+https://tapmadtv.live/master.m3u8/?key=WASITV&c=fox501|Referer=https://tapmadtv.live/play.php?c=fox501&key=Smartflixtv
 
-
-
+#EXTINF:-1 group-title="🇱 🇮 🇻 🇪 🔵|Cricket Event🏏"tvg-logo="https://m.media-amazon.com/images/I/71t1XaIXBrL.png",🇱 🇮 🇻 🇪 🔴 8
+https://tapmadtv.live/master.m3u8/?key=WASITV&c=tenspk|Referer=https://tapmadtv.live/play.php?c=tenspk
 
 
 
