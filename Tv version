@@ -734,7 +734,10 @@ http://tv.cloudcdn.me:80/live.ts?channelId=91169&uid=7084&deviceMac=00:1A:79:99:
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 
 #EXTINF:-1 group-title="KIDS"tvg-logo="https://i.postimg.cc/g002B7kq/01ef9db86b56a85ed9474bac2af17b55-1.png",Cartoon Network 
-https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_sd/playlist.m3u8
+https://playyonogames.in/live.php?id=816&extension=.m3u8|Referer=://playyonogames.in//&key=Smartflix_tv
+
+#EXTINF:-1 group-title="KIDS"tvg-logo="https://i.postimg.cc/g002B7kq/01ef9db86b56a85ed9474bac2af17b55-1.png",CN HD+
+https://playyonogames.in/live.php?id=1081&extension=.m3u8|Referer=https://playyonogames.in//&key=Smartflix_tv
 
 #EXTINF:-1 group-title="KIDS"tvg-logo="https://i.postimg.cc/rmyFqStN/5b17a33c349cb9bf7dd7976f38a9b754.png",Disney Hd
 http://tv.cloudcdn.me:80/live.ts?channelId=251&uid=15834&deviceMac=00:1A:79:40:26:09
@@ -760,8 +763,13 @@ http://atg100.xyz:80/live/UL33K17/SYC4T9D/510222.ts
 #EXTINF:-1 group-title="KIDS"tvg-logo="https://i.postimg.cc/9Xv8kgH4/e8da1b4d1606e72596a0533b3f9ca3a8.png",Sony Yny
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyyay/playlist.m3u8
 
-#EXTINF:-1 group-title="KIDS"tvg-logo="https://i.postimg.cc/v81sJ3RF/7f92f7a33ad65b181b3cb93900b58228.png",Pogo 
-https://playyonogames.in/live.php?id=559&extension=.m3u8|Referer=https://playyonogames.in//&key=Smartflix_tv
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20YAY.png",Sony Yay Hindi
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/72153.ts
+
+
+#EXTINF:-1 group-title="KIDS"tvg-logo="https://i.postimg.cc/v81sJ3RF/7f92f7a33ad65b181b3cb93900b58228.png",Pogo
+https://playyonogames.in/live.php?id=816&extension=.m3u8|Referer=://playyonogames.in//&key=Smartflix_tv
+
 
 #EXTINF:-1 group-title="KIDS"tvg-logo="https://i.postimg.cc/x15hJzr3/699391a2c013c54b4266bde15e2cb99c.png",Hangama 
 http://atg100.xyz:80/live/UL33K17/SYC4T9D/510267.m3u8
@@ -802,8 +810,6 @@ http://starshare.live:8080/live/3569087360/6542246996/147743.ts
 #EXTINF:-1 group-title="KIDS"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScjmJn7hMm2pK8MstM1AvgkEyCVMH5FsXNj97eKYfoEqYluXK4WFcaQmI&s=10",Doremon
 http://starshare.live:8080/live/3569087360/6542246996/147746.ts
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20YAY.png",Sony Yay Hindi
-https://keralamaxtv.com/sliv/stream.php?id=168569&e=.m3u8|Referer=https://keralamaxtv.com//&key=BDStreamHub
 
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
