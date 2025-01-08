@@ -807,106 +807,82 @@ https://mhdstream.com/sliv/stream.php?id=7541236&e=.m3u8|Referer=https://mhdstre
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png",Sony Sports Ten 2
 https://mhdstream.com/sliv/stream.php?id=96585698&e=.m3u8|Referer=https://mhdstream.com/sliv/stream.php?id=96585698&e=.m3u8//
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png",Sony Sports Ten 3
-https://cc-bpss9asqfihqh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bpss9asqfihqh/scheduler/scheduleMaster/453.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=IN1300001NN
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen4_HD.png",Sony Sports Ten 4
-http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=16068&deviceMac=00:1A:79:ED:10:29
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png",Sony Ten 3
+https://mhdstream.com/sliv/stream.php?id=36523652&e=.m3u8|Referer=https://mhdstream.com//&key=Smartflix_tv
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Sony_Sports_Ten_5.png/revision/latest/scale-to-width-down/460?cb=20221025091902",Sony Sports Ten 5
 https://mhdstream.com/sliv/stream.php?id=985663256&e=.m3u8|Referer=https://mhdstream.com/sliv/stream.php?id=985663256&e=.m3u8//
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://w7.pngwing.com/pngs/214/781/png-transparent-star-sports-sony-ten-star-india-television-channel-others-miscellaneous-television-text.png",Star Sports 1 HD
-https://Smarflixtv@nowsports.co.in/cric/stream.m3u8?id=2d1d9e504afdd24a2936ad59fd7934d6|Referer=https://nowsports.co.in/cric/?key=SmartFlix_Tv
+https://tapmadtv.live/master.m3u8/?key=WASITV&c=star1in|Referer=https://tapmadtv.live/play.php?c=star1in
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg/revision/latest?cb=20191214232359",Star Sports 2 HD
-http://tv.cloudcdn.me:80/live.ts?channelId=298&uid=7084&deviceMac=00:1A:79:99:1F:A8
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/1090637.ts
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://w7.pngwing.com/pngs/734/315/png-transparent-cricket-world-cup-star-sports-3-streaming-media-ptv-sports-live-stream-television-text-sport.png",Star Sports 3
-http://extraott.com/live/6945574629/7169628753/400159568.ts
+http://atg100.xyz/live/UL33K17/SYC4T9D/1090638.ts
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7226/597226-h",Star Sports Select 1
-https://cflare.mooo.com/test/starspsl1.m3u8
+http://activefrance.net:80/live/PMF3J9X/BV7HG8H/1090639.ts
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD_msuvfO37SSPzeEUE1lI0XgAXxEcmQHepg&usqp=CAU",Star Sports Select 2
-http://176.119.29.52/live.ts?channelId=300&uid=16068&deviceMac=00:1A:79:ED:10:29
+#EXTINF:-1group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD_msuvfO37SSPzeEUE1lI0XgAXxEcmQHepg&usqp=CAU",Star Sports Select 2
+http://activefrance.net:80/live/PMF3J9X/BV7HG8H/1090640.ts
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.discoveryplus.com&client=VFE&size=64&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",TNT Sports 1
-https://Smartflixtv@nowsports.co.in/cric/stream.m3u8?id=0b78e521750bdaacde4800fe60804b52|Referer=https://nowsports.co.in/cric/?key=SmartFlix_Tv
+https://tapmadtv.live/master.m3u8/?key=WASITV&c=bbtsp1|Referer=https://tapmadtv.live/play.php?c=bbtsp1
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://tv.krirangon.com/upload/Channel%20Logo/TNT%20SPORTS%202.jpg",TNT Sports 2
-https://SmartFlixtv@nowsports.co.in/cric/stream.m3u8?id=d662f58b27c0bda8424beb6b6bda1fa9|Referer=https://nowsports.co.in/cric/?key=SmartFlix_Tv
+https://tapmadtv.live/master.m3u8/?key=WASITV&c=bbtsp2|Referer=https://tapmadtv.live/play.php?c=bbtsp2
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZfjVZSq-hhIydqH-JlvQG4VLwrSG3K64gTg&s",TNT Sports 3
-https://madplay.live/hls/crichd/index.php?id=bbtsp3&e=.m3u8|Referer=https://madplay.live//&key=BDStreamHub
-https://webuit.mizhls.ru/lb/premium33/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=BDStreamHub
+http://aflaxtv.xyz:8080/live/test_acct/ohbo1veifa4AhD/271.ts
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Sports18_logo.svg",Sports 18
 https://neestreamtv.com/jcinema/stream.m3u8?id=0000001|Referer=https://neestreamtv.com//&key=BDStreamHub
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_2.png",Sports 18₂
-https://colorsscreen.com/live.php?id=2852&extension=.m3u8|Referer=https://colorsscreen.com//&key=BDStreamHub
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_3.png",Sports 18₃
-https://colorsscreen.com/live.php?id=2853&extension=.m3u8|Referer=https://colorsscreen.com//&key=BDStreamHub
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png",A Sports
-https://madplay.live/hls/crichd/index.php?id=asportshd&e=.m3u8|Referer=https://madplay.live//&key=BDStreamHub
+https://tapmadtv.live/master.m3u8/?key=WASITV&c=asportshd|Referer=https://tapmadtv.live/play.php?c=asportshd//
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpp69gsQwJYuDspe-650YnMewqMxf1vff7OtChwYqXPg&s",Astro Cricket
-https://xyzdddd.mizhls.ru/lb/premium370/index.m3u8|Referer=https://quest4play.xyz///&key=BDStreamHub
+http://extraott.com/live/3586573392/7591141273/400201960.ts
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://e7.pngegg.com/pngimages/13/246/png-clipart-logo-ptv-sports-television-channel-pakistan-cricket-television-text.png",PTV SPORTS HD
-https://madplay.live/hls/crichd/index.php?id=ptvpk&e=.m3u8|Referer=https://madplay.live//&key=BDStreamHub
+https://tapmadtv.live/master.m3u8/?key=WASITV&c=ptvpk|Referer=https://tapmadtv.live/play.php?c=ptvpk//
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.pngaaa.com/428/3764428-middle.png",FOX SPORTS 501
-https://madplay.live/hls/crichd/index.php?id=fox501&e=.m3u8|Referer=https://madplay.live//&key=BDStreamHub
+https://tapmadtv.live/master.m3u8/?key=WASITV&c=fox501|Referer=https://tapmadtv.live/play.php?c=fox501//
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngkey.com/png/detail/921-9211380_sky-sports-cricket-sky-sports-main-event-logo.png",SKY SPORTS CRICKET
-https://madplay.live/hls/crichd/index.php?id=skyscric&e=.m3u8|Referer=https://madplay.live//&key=BDStreamHub
+https://tapmadtv.live/master.m3u8/?key=WASITV&c=skyscric|Referer=https://tapmadtv.live/play.php?c=skyscric//
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png",Ten Sports 
-http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+https://tapmadtv.live/master.m3u8/?key=WASITV&c=tenspk|Referer=https://tapmadtv.live/play.php?c=tenspk//
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrOO-pFRfbJXcWgOXEF47LdoWgrtNB2YZMqw&usqp=CAU",Super Cricket
 https://madplay.live/hls/crichd/index.php?id=supercricket&e=.m3u8|Referer=https://madplay.live//&key=BDStreamHub
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnpP8yxlf7fgMkPmSepeqMbrCLdGxtSWviBQ&s",Super La Liga 
-https://madplay.live/hls/crichd/index.php?id=superlaliga&e=.m3u8|Referer=https://madplay.live//&key=BDStreamHub
+https://tapmadtv.live/master.m3u8/?key=WASITV&c=superlaliga|Referer=https://tapmadtv.live/play.php?c=superlaliga//
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg",Super Football
-https://madplay.live/hls/crichd/index.php?id=superfotball&e=.m3u8|Referer=https://madplay.live//&key=BDStreamHub
+https://tapmadtv.live/master.m3u8/?key=WASITV&c=superfotball|Referer=https://tapmadtv.live/play.php?c=superfotball//
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuJZwll1yDc6IwfB4_XfT33ke4DAaaQCgf0Omc4cyfvCeVvWnPRdARbRA&s=10",Willow Cricket HD
-https://madplay.live/hls/crichd/index.php?id=willowusa&e=.m3u8|Referer=https://madplay.live//&key=BDStreamHub
+https://tapmadtv.live/master.m3u8/?key=WASITV&c=willowusa|Referer=https://tapmadtv.live/play.php?c=willowusa//
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdy4C4g5PPu91tbSZN9lgejySS9S5GhO04BThHfQpH&s",Willow Cricket Extra
-https://madplay.live/hls/crichd/index.php?id=willowextra&e=.m3u8|Referer=https://madplay.live//&key=BDStreamHub
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlsk9pcl_v0neQROSGCJhZZtpB1ISGLmjmKobbX79HjMuJFlgjvf7n71c&s=10",SSC 1
-https://xyzdddd.mizhls.ru/lb/premium614/index.m3u8|Referer=https://quest4play.xyz///&key=BDStreamHub
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4IELyIzk34JOzR7ijB7e-k24OHDSUfJ2H2wn0Z8NMrImIUJ8T3D5kfjhE&s=10",SSC 2
-https://xyzdddd.mizhls.ru/lb/premium615/index.m3u8|Referer=https://quest4play.xyz///&key=BDStreamHub
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn1_UPM-M26cUyRiU-uvT7dpa83bV1OJEEdTs-yC9kkitqrFzfzHtqDhZB&s=10",SSC 3
-https://xyzdddd.mizhls.ru/lb/premium616/index.m3u8|Referer=https://quest4play.xyz///&key=BDStreamHub
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShXDzHi9gK07naPrUCQKJ5j3ZIciZ0osCeDlz52HxWrgH-lFwJuPPNb2I&s=10",SSC 4
-https://xyzdddd.mizhls.ru/lb/premium617/index.m3u8|Referer=https://quest4play.xyz///&key=BDStreamHub
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgc6uTPIvHEqLAePDRBX4fAEICblpPTJTBurcFWun9h_DT968R9WD1ldlB&s=10",SSC 5
-https://xyzdddd.mizhls.ru/lb/premium618/index.m3u8|Referer=https://quest4play.xyz///&key=BDStreamHub
+https://tapmadtv.live/master.m3u8/?key=WASITV&c=willowextra|Referer=https://tapmadtv.live/play.php?c=willowextra//
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo.png",EuroSports
-http://176.119.29.52/live.ts?channelId=272&uid=7045&deviceMac=00:1A:79:0A:3B:36
+https://tapmadtv.live/master.m3u8/?key=WASITV&c=laligauk=Referer=https://tapmadtv.live/play.php?c=laligauk//
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://mutv.manutd.com/assets/images/fav_icon.png",MU TV
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
+https://tapmadtv.live/master.m3u8/?key=WASITV&c=skysfott|Referer=https://tapmadtv.live/play.php?c=skysfott//
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://banner2.cleanpng.com/20180805/bq/kisspng-real-madrid-c-f-real-madrid-tv-television-channel-llistat-de-canals-andorra-telecom-5b67c483afefc1.7314644815335271717206.jpg",RM TV HD
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
+https://tapmadtv.live/master.m3u8/?key=WASITV&c=superpremier|Referer=https://tapmadtv.live/play.php?c=superpremier//
 
 
 
