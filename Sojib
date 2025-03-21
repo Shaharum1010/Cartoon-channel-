@@ -1,37 +1,10 @@
 #EXTINF:-1group-title=""tvg-logo="https://i.postimg.cc/26mr6cFt/FB-IMG-17195703525425226.jpg",Shaharum Islamic 
-http://tv.cloudcdn.me:80/live.ts?channelId=123908&uid=10153&deviceMac=00:1A:79:91:38:01
+http://extraott.com/live/3586573392/7591141273/15280.m3u8
 #EXTINF:-1group-title=""tvg-logo="https://i.postimg.cc/26mr6cFt/FB-IMG-17195703525425226.jpg",Shaharum 2
-http://tv.cloudcdn.me:80/live.ts?channelId=123908&uid=6154&deviceMac=00:1A:79:51:31:21
+http://extraott.com/live/3586573392/7591141273/261034.m3u8
 #EXTINF:-1group-title=""tvg-logo="https://i.postimg.cc/26mr6cFt/FB-IMG-17195703525425226.jpg",Shaharum Bangla 
-https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8
+http://extraott.com/live/3586573392/7591141273/360857.m3u8
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/4xg1dpH0/Z.jpg",Peace tv Bangla 
-https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=WtEeCL3jrkSAR2y6Uo7YZg
+http://extraott.com/live/3586573392/7591141273/6887.m3u8
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/tC03SFkg/9k.jpg",Makkah Live
-http://tv.cloudcdn.me:80/live.ts?channelId=37317&uid=6154&deviceMac=00:1A:79:51:31:21
-#EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/NM3Hnw1n/P1-OFPg7ryig-SRTQJApo-Eg-U0i-QKa-RAFNoo-Am-Ubgm-XZy-Qdl40-TT4-KSZm-Lpkle-Sowsn-Cap-AJp-EEWg-Pa-JVSwprt25a0w-D9-S43-Pftg-AAA.jpg",islam tv
-https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
-#EXTINF:-1 group-title="SPORTS"tvg-logo="https://i.postimg.cc/QMVKxMmP/Z-1.jpg",Live
-http://tv.cloudcdn.me:80/live.ts?channelId=57497&uid=6154&deviceMac=00:1A:79:51:31:21
-#EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/QMVKxMmP/Z-1.jpg",Azan
-http://tv.cloudcdn.me:80/live.ts?channelId=223&uid=1904&deviceMac=00:1A:79:4C:9A:52
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gfw89mC/20240804-033102.png" group-title="ISLAMIC Channel", PEACE TV BANGLA
-https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=qRApYCh4AUmcio2ge9BktA
-#EXTINF:-1 tvg-logo="https://i.ibb.co/598TYnC/20240827-092020.png" group-title="ISLAMIC Channel", PEACE TV ENGLISH
-http://tv.cloudcdn.me:80/live.ts?channelId=238&uid=6154&deviceMac=00:1A:79:51:31:21
-#EXTINF:-1 tvg-logo="https://i.ibb.co/27xSN3Z/20240803-172527.png" group-title="ISLAMIC Channel", ISLAM BANGLA
-https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/89CVshH/20240827-091949.png" group-title="ISLAMIC Channel", DEEN TV
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deentv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7jrjkW1/20240813-112630.png" group-title="ISLAMIC Channel", MADANI TV
-https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TtHtGkW/20240803-172601.png" group-title="ISLAMIC Channel", MAKKAH TV
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2F9HQq9/20240803-172433.png" group-title="ISLAMIC Channel", IQRA BANGLA
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iqrabanglatvoffice.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rtkWYHV/20240827-092043.png" group-title="ISLAMIC Channel", AL SUNNAH
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/madina.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CQ0JWPQ/20240803-172457.png" group-title="ISLAMIC Channel", ATN ISLAMIC TV
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnislamictv.stream/playlist.m3u8
-#EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/QMVKxMmP/Z-1.jpg",Islam life
-http://tv.cloudcdn.me:80/live.ts?channelId=235&uid=1904&deviceMac=00:1A:79:4C:9A:52
+http://extraott.com/live/3586573392/7591141273/360851.m3u8
