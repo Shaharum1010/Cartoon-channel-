@@ -2,22 +2,22 @@
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png",Independent 
-https://evbr.short.gy/BDStreamHub/independent.m3u
+http://opplex.tv:8080/live/323232/323232/245916.ts
 
 #EXTINF:-1 group-title="" tvg-logo="https://i.postimg.cc/v8X1ckcr/30737e0d3caad8a27d5daa148cda6dd4.png",G Tv
-http://tv.cloudcdn.me:80/live.ts?channelId=98&uid=15834&deviceMac=00:1A:79:40:26:09
+http://opplex.tv:8080/live/323232/323232/245911.ts
 
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/c4MCSzQJ/images.png",Anando tv
-
+http://opplex.tv:8080/live/323232/323232/245929.ts
 
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/PrrsCVgJ/2df5202cd6737d30a089ebe76d0c61ec.png",SATV
-http://tv.cloudcdn.me:80/live.ts?channelId=114&uid=15834&deviceMac=00:1A:79:40:26:09
+http://opplex.tv:8080/live/323232/323232/245945.ts
 
 #EXTINF:-1 group-title="" tvg-logo="https://i.postimg.cc/P57dRZ1d/ed69726e95639af8a31114353110ef61.png",Rtv
-https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/playlist.m3u8
+http://opplex.tv:8080/live/323232/323232/245911.ts
 
 #EXTINF:-1 group-title="" tvg-logo="https://i.postimg.cc/j50tsb89/00461a48a03f0ee2215ed653cd300c5f.png",Somy Tv
-http://tv.cloudcdn.me:80/live.ts?channelId=115&uid=15834&deviceMac=00:1A:79:40:26:09
+http://opplex.tv:8080/live/323232/323232/245925.ts
 
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png",DBC News
 https://evbr.short.gy/BDStreamHub/DBC_New.m3u
