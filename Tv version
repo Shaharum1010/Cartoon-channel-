@@ -41,12 +41,8 @@ https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3
 
 
 
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/LXVhpXmY/20240316-055848-0000.png",BDStreamHub Tv
-https://livepeercdn.studio/hls/aaf0jm7afr49h87u/index.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 12; POCO M2 Pro Build/SKQ1.211019.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/132.0.6834.122 Mobile Safari/537.36
-https://livepeercdn.studio/hls/aaf0jm7afr49h87u/index.m3u8|referer=https://sin-prod-catalyst-0.lp-playback.studio/&User-Agent=Mozilla/5.0 iPhone; CPU iPhone OS 17_5_1 like Mac OS X
-
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1200px-Bangladesh_Television_Logo.svg.png",BTV National 
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btvnational1.stream/live-orgin/btvnational1.stream/chunks.m3u8|Referer=//&key=BDStreamHub
+http://103.163.247.39/local_out/btv/video.m3u8?token=At5F1MFZYnciB3
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png",BTV World
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btv-local-sg-220-org.stream/live-orgin/btv-local-sg-220-org.stream_240p/chunks.m3u8|Referer=https://static.jagobd.com.bd//&key=BDStreamHub
