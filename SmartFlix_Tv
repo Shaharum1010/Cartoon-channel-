@@ -20,3 +20,6 @@ http://bktv.xyz:8080/070320/WerWcMP939/2104
 
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png",Test 3
 http://bktv.xyz:8080/070320/WerWcMP939/2121
+
+#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png",Test 4
+http://trollott.com:8080/live/202504014/hh2025bdlive/503513.ts
