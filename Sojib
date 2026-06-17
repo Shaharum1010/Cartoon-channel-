@@ -2,10 +2,10 @@
 http://premiumtvs.space:80/live/1Aoen7elp5/IgMJ60tmAa/745202.ts
 
 #EXTINF:-1group-title="Live Event"tvg-logo="https://i.postimg.cc/26mr6cFt/FB-IMG-17195703525425226.jpg",Live 2
-https://live-pull.aisports.mobi/moviebox/device01/playlist.m3u8?sign=7af5ec89939b52cd93c6f8a40c444860&t=1781658077|Referer=https://aisports.mobi/
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 
 #EXTINF:-1group-title="Live Event"tvg-logo="https://i.postimg.cc/26mr6cFt/FB-IMG-17195703525425226.jpg",Live 3
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/744518.ts
 
 #EXTINF:-1group-title="Live Event"tvg-logo="https://i.postimg.cc/26mr6cFt/FB-IMG-17195703525425226.jpg",Live 4
 http://premiumtvs.space:80/live/1Aoen7elp5/IgMJ60tmAa/742611.ts
