@@ -253,7 +253,7 @@ http://27.124.71.27/Sun_Bangla/index.m3u8
 
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/5tDvvUEpWx.png", Sony Aath
-https://edge2.roarzone.net:8447/roarzone/edge3/sonyaath/index.m3u8?token=c1bbca22ab088b19c0bba490f6f74c67dcff3a88-61933a142add01f3550129205ce90895-1781061323-1781050523
+https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 
 
 
@@ -261,7 +261,8 @@ https://edge2.roarzone.net:8447/roarzone/edge3/sonyaath/index.m3u8?token=c1bbca2
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/uZtiXpPz29.png", SRK Tv
-https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/tracks-v1a1/mono.m3u8
+
 
 
 # ─────────── Movies───────────
@@ -280,7 +281,7 @@ https://tvsen6.aynaott.com/GoldminesBollywood/index.m3u8
 
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://imglink.cc/cdn/hEzUhoTW3x.jpg", Jalsha Movies
-http://198.195.239.50:8095/JalshaMovies/tracks-v1a1/mono.m3u8
+http://skyfilex.fun:80/live/01939393848/84919293949/425.ts
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://imglink.cc/cdn/cScI5tEUjV.png", Hindi Classic 24
 https://vods2.aynaott.com/hindimovies/index.m3u8
@@ -298,14 +299,14 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionholly
 http://starhub.pro//live/farhat-3379/67897-913379/151.ts
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://imglink.cc/cdn/4mRBs1A-x_.png", Sony Max HD
-http://starhub.pro//live/farhat-3379/67897-913379/151.ts
+http://skyfilex.fun:80/live/01939393848/84919293949/9373.ts
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://imglink.cc/cdn/4mRBs1A-x_.png", Sony Max 2
-https://edge2.roarzone.net:8447/roarzone/edge3/sonymax_2/index.m3u8?token=1ae6cc9578f7e8a9fbeb42b32a9ea6e19c246ec6-aa37a828978035cc1450f0721cf5f067-1781061322-1781050522
+http://skyfilex.fun:80/live/01939393848/84919293949/9373.ts
 
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://imglink.cc/cdn/Nkj7hqlPz-.jpg", Star Gold
-http://starhub.pro//live/farhat-3379/67897-913379/194.ts
+http://skyfilex.fun:80/live/01939393848/84919293949/194.ts
 
 
 # ─────────── Music───────────
@@ -350,7 +351,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209869/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://imglink.cc/cdn/XRDlkFnTFb.jpg", Nick Bangla
-http://premiumtvs.space:80/live/1Aoen7elp5/IgMJ60tmAa/205.ts
+http://skyfilex.fun:80/live/01939393848/84919293949/205.ts
 
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://imglink.cc/cdn/G2BnUli8dP.png", Sonic Bangla
@@ -375,8 +376,8 @@ http://frt.n-052.xyz:8080/sefervip8823/11.08.2024/418052
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.ibb.co.com/5xSF5mzh/Gopal-Bhar-animated-TV-series-title-card.jpg", Gopal Bhar TV
 https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.ibb.co.com/Ld3Yw0PH/Duronto-TV.png", Duronto Live
-http://premiumtvs.space:80/live/1Aoen7elp5/IgMJ60tmAa/1918.ts
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.ibb.co.com/Ld3Yw0PH/Duronto-TV.png",Pogo
+http://skyfilex.fun:80/live/01939393848/84919293949/1918.ts
 
 # ───────────  Bangladesh───────────
 
@@ -385,15 +386,15 @@ http://premiumtvs.space:80/live/1Aoen7elp5/IgMJ60tmAa/1918.ts
 https://mtlivestream.com/hls/asian/ytlive/index.m3u8
 
 
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ATN_News_logo.svg/1280px-ATN_News_logo.svg.png",ATN News HD
-https://tvsen5.aynaott.com/atnbangla/index.m3u8?e=1779283752&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e20058ae495a80a83ec09cb9d82b9253
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ATN_News_logo.svg/1280px-ATN_News_logo.svg.png",ATN Bangla
+http://skyfilex.fun:80/live/01939393848/84919293949/3800.ts
 
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/5hy7S3wB/Ayna-TV.png",Ayna TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://imglink.cc/cdn/ofOLQDCLwk.png", Ananda TV
-https://tvsen6.aynaott.com/anandatv/index.m3u8?e=1779283759&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=504b9350b4703116ca4ab20e4013288e
+http://skyfilex.fun:80/live/01939393848/84919293949/399.ts
 
 
 
@@ -406,18 +407,18 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/DP1GSwB3/Bijoy-TV.png",Bijoy TV
-https://tvsen6.aynaott.com/bijoytv/index.m3u8?e=1780662760&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3ce64c165e70832dc446d5fe776bb64b
+http://skyfilex.fun:80/live/01939393848/84919293949/408.ts
 
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/sptqqqj9/Boishakhi-TV.png",Boishakhi TV
-https://tvsen6.aynaott.com/boishakhitv/index.m3u8?e=1779283755&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f3f4ec98ffbd9567c21e8b2ee98e32d5
+http://skyfilex.fun:80/live/01939393848/84919293949/390.ts
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://imglink.cc/cdn/YQ8D9Wf0IT.png", Bangla Tv
-https://tvsen6.aynaott.com/banglatv/index.m3u8?e=1779283758&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f3e9e2737e35147900c0f4add619ead6
+http://skyfilex.fun:80/live/01939393848/84919293949/3803.ts
 
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://imglink.cc/cdn/H038J5LwdN.png", Channel I
-https://tvsen6.aynaott.com/channeli/index.m3u8?e=1779283749&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=1d2782c406bc6c9f853716c3dc41a439
+http://skyfilex.fun:80/live/01939393848/84919293949/406.ts
 
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/N6HbH5rH/Channel-One-TV.png",Channel 1 TV
@@ -530,10 +531,27 @@ https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://imglink.cc/cdn/ndYg8AR85Y.jpg", Republic Bangla
 https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/06e5afc2-a022-4e51-9131-4e33a6207c5c/1.m3u8
 
+#EXTINF:-1 group-title="News" tvg-logo="https://imglink.cc/cdn/ndYg8AR85Y.jpg",Al jazeera
+http://skyfilex.fun:80/live/01939393848/84919293949/5666.ts
+
+#EXTINF:-1 group-title="News" tvg-logo="https://imglink.cc/cdn/ndYg8AR85Y.jpg",iran News
+http://skyfilex.fun:80/live/01939393848/84919293949/255847.ts
+
+
+#EXTINF:-1 group-title="Islamic" tvg-logo="https://imglink.cc/cdn/ndYg8AR85Y.jpg",Islam
+http://skyfilex.fun:80/live/01939393848/84919293949/92.ts
+
+#EXTINF:-1 group-title="Islamic" tvg-logo="https://imglink.cc/cdn/ndYg8AR85Y.jpg",Live
+http://skyfilex.fun:80/live/01939393848/84919293949/4664.ts
+
+
+
+
+
 # ─────────── Documentary───────────
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://imglink.cc/cdn/mv5xd7yy0d.png", Discovery Bangla
-http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/276953.ts
+http://skyfilex.fun:80/live/01939393848/84919293949/406.ts
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://imglink.cc/cdn/mv5xd7yy0d.png", Discovery Hindi
 http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/276953.ts
