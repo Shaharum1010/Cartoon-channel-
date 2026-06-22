@@ -1,5 +1,5 @@
 #EXTINF:-1group-title="Live Event"tvg-logo="https://i.postimg.cc/26mr6cFt/FB-IMG-17195703525425226.jpg",Live 1
-https://1nyaler.streamhostingcdn.top/stream/117/index.m3u8
+http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/328813.m3u8
 
 #EXTINF:-1group-title="Live Event"tvg-logo="https://i.postimg.cc/26mr6cFt/FB-IMG-17195703525425226.jpg",Live 2
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
@@ -8,10 +8,10 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
 
 #EXTINF:-1group-title="Live Event"tvg-logo="https://i.postimg.cc/26mr6cFt/FB-IMG-17195703525425226.jpg",Live 4
-http://84.17.50.102/fox/index.m3u8
+http://skyfilex.fun:80/live/01939393848/84919293949/1021.m3u8
 
 #EXTINF:-1group-title="Live Event"tvg-logo="https://i.postimg.cc/26mr6cFt/FB-IMG-17195703525425226.jpg",Live 5 
-http://198.195.239.50:8095/tsports/index.m3u8
+http://skyfilex.fun:80/live/01939393848/84919293949/422.m3u8
 
 #EXTINF:-1group-title="Live Event"tvg-logo="https://i.postimg.cc/26mr6cFt/FB-IMG-17195703525425226.jpg",Live 6
 https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
@@ -73,26 +73,23 @@ https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png", FIFA Plus 🇺🇸 USA
 https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/o5BoWU_BEz.png", Fox Sports 2 - (FIFA)
-https://tvsen7.aynaott.com/foxsports2/index.m3u8?e=1779283790&amp;u=78be6644-0a65-48ec-81a4-089ac65a2619&amp;token=cbb7f40b4af7be51a91e0629a5ac7238
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/o5BoWU_BEz.png", Fox Sports 1
+http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/328813.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/1oSRQnyUqK.jpg", Tyc Sports 🇦🇷 Argentina
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/1oSRQnyUqK.jpg", Tyc Sports B 🇦🇷 Argentina
-http://cdn.tv-rds.workers.dev/TYCSPT.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/1oSRQnyUqK.jpg", Tyc Sports C 🇦🇷 Argentina
-http://daleplaytv.vip:80//live/4nd9wbtu/c5hrn9eFhfsa/81252.ts
+http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/328637.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/eYP_0o2cnt.jpg", DSports 🇦🇷
-http://cablemaxsigloxxi.com:8000/play/a0l4/index.m3u8
+http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/465846.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/eYP_0o2cnt.jpg", DSports B 🇦🇷
-https://cors-proxy.cooks.fyi/http://147.135.114.221:8001/play/a00m/index.m3u8
+http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/465845.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/eYP_0o2cnt.jpg", Vivo TV
-http://rlatinop.com:8880/Jhoselin102030xd1011/SQDyyTdV2z6x/527938
+http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/465856.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png", Caze TV 🇧🇷 Brazil
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
@@ -200,8 +197,8 @@ https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/va7WOdXDQC.jpg", Star Sports 1
 http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/9397.ts
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/va7WOdXDQC.jpg", Star Sports 1 B
-https://tvsen7.aynaott.com/sspts1/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/va7WOdXDQC.jpg",Sky Cricket
+http://fastshare1.com:80/live/1Aoen7elp5/IgMJ60tmAa/12.ts
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/HMfImxTUXS.jpg", Cricket Gold
@@ -210,19 +207,19 @@ https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/manifest/611d79b11b7
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/aqlLWjDMNH.png", ESPN
-https://tvsen5.aynaott.com/espn/index.m3u8
+http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/465856.m3u8
 
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/d4W6mvjalX.png", ASports
-http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/2494.ts
+http://skyfilex.fun:80/live/01939393848/84919293949/43444.ts
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/wHhztDDZrU.png", PTV Sports (FIFA)
 http://premiumtvs.space:80/live/1Aoen7elp5/IgMJ60tmAa/89.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/u7SqaFacbH.png", TSN 1
-https://tvsen7.aynaott.com/tsn1/index.m3u8
+http://skyfilex.fun:80/live/01939393848/84919293949/1021.ts
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/u7SqaFacbH.png", TSN 2
