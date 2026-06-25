@@ -8,7 +8,7 @@ http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
 http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/146122.m3u8
 
 #EXTINF:-1group-title="Live Event"tvg-logo="https://i.postimg.cc/26mr6cFt/FB-IMG-17195703525425226.jpg",Live 4
-http://vca.easy747.com:80/live/donad220/8U01MGV/273411.m3u8
+https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8|referer=https://iscreen.com.bd/
 
 #EXTINF:-1group-title="Live Event"tvg-logo="https://i.postimg.cc/26mr6cFt/FB-IMG-17195703525425226.jpg",Live 5 
 http://212.102.34.8:9080/AndFlixHD/video.m3u8
